@@ -28,14 +28,11 @@ function usage() {
         echo "[+] Total arguments: $#"
     fi
 
-    if [[ $# < 2 ]]
-    then
-        echo
-        echo -e "${COLOR_RED}[+] usage: $(basename $0) host port
-        location-of-openssl-bin (optional) ${COLOR_RESET}\n"
-        echo "e.g. $(basename $0) gateway.push.apple.com 2195 /usr/bin/openssl"
-        echo
-    fi
+    echo
+    echo -e "${COLOR_RED}[+] usage: $(basename $0) host port \\
+    location-of-openssl-bin (optional) ${COLOR_RESET}\n"
+    echo "e.g. $(basename $0) gateway.push.apple.com 2195 /usr/bin/openssl"
+    echo
 }
 
 function detect_openssl_binary() {
@@ -91,7 +88,11 @@ function check_server() {
 }
 
 function main() {
-    usage $@
+    if [[ $# < 2 ]]
+    then
+        usage $@
+        return -1
+    fi
 
     if [[ -z "$3" ]]
     then
