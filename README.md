@@ -11,7 +11,7 @@ s_client ...`. For better results, make sure to use a recent version of
 ## Example Usage
 
 ```
-check-tls.sh gateway.push.apple.com 2195
+$ check-tls.sh gateway.push.apple.com 2195
 
 [+] using openssl binary at: /usr/bin/openssl
 [+] openssl version: OpenSSL 0.9.8zg 14 July 2015
@@ -39,6 +39,8 @@ support for `TLSv1.1` and `TLSv1.2`).
 A quick usage is shown below:
 
 ```
+$ check-tls.sh gateway.push.apple.com 2195 /usr/local/bin/openssl
+
 [+] using openssl binary at: /usr/local/bin/openssl
 [+] openssl version: OpenSSL 1.0.2e 3 Dec 2015
 [+] openssl client supports: -ssl2 -ssl3 -tls1_2 -tls1_1 -tls1 -dtls1

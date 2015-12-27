@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash -e
 
 DEBUG=0 ## shows debug output
 OPENSSL_BIN='' ## auto-detected
