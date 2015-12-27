@@ -35,16 +35,15 @@ function usage() {
         location-of-openssl-bin (optional) ${COLOR_RESET}\n"
         echo "e.g. $(basename $0) gateway.push.apple.com 2195 /usr/bin/openssl"
         echo
-        exit
     fi
 }
 
 function detect_openssl_binary() {
-    local openssl_bin=$(which openssl)
-    if [[ -z ${openssl_bin} ]]
+    local openssl_bin="$(which openssl)"
+
+    if [[ ! -e ${openssl_bin} ]]
     then
-        echo '[+] openssl binary not found, quitting ...'
-        exit -1
+        echo '(null)'
     else
         echo -n "${openssl_bin}"
     fi
@@ -57,10 +56,10 @@ function detect_openssl_capability() {
         | awk '{print $1}' \
         | xargs echo)
 
-    if [[ ${#openssl_client_capabilities[*]} == 0 ]]
+    if [[ -z ${openssl_client_capabilities} \
+        || ${#openssl_client_capabilities[*]} == 0 ]]
     then
-        echo "[+] ${OPENSSL_BIN} has zero client capability, quitting ..."
-        exit -1
+        echo "(null)"
     else
         echo -n "${openssl_client_capabilities}"
     fi
@@ -101,13 +100,22 @@ function main() {
         OPENSSL_BIN="$3"
     fi
 
-    echo "[+] using openssl binary at: ${OPENSSL_BIN}"
-    echo "[+] openssl version: $(${OPENSSL_BIN} version)"
-
-    if [[ -f ${OPENSSL_BIN} ]]
+    if [[ -e ${OPENSSL_BIN} ]]
     then
+        echo "[+] using openssl binary at: ${OPENSSL_BIN}"
+        echo "[+] openssl version: '$(${OPENSSL_BIN} version)'"
+
         OPENSSL_CLIENT_CAPABILITIES=$(detect_openssl_capability)
-        echo "[+] openssl client supports: ${OPENSSL_CLIENT_CAPABILITIES}"
+        if [[ ${OPENSSL_CLIENT_CAPABILITIES} != '(null)' ]]
+        then
+            echo "[+] openssl client supports: ${OPENSSL_CLIENT_CAPABILITIES}"
+        else
+            echo "[+] openssl client capabilities couldn't be detected, quitting ..."
+            return -1
+        fi
+    else
+        echo "[+] invalid openssl binary, quitting ..."
+        return -1
     fi
 
     if [[ ! -z ${IGNORED_PROTOCOLS} ]]
@@ -124,11 +132,11 @@ function main() {
             local result=$(check_server "$1" "$2" "${protocol}")
             if [[ -z "${result}" ]]
             then
-                echo -e "${COLOR_RED}    - connection failed with ${protocol} ${COLOR_RESET}"
+                echo -e "${COLOR_RED}\t- connection failed with '${protocol}' ${COLOR_RESET}"
             else
-                echo -e "${COLOR_BLUE}    - connection succesful with ${protocol} ${COLOR_RESET}"
+                echo -e "${COLOR_BLUE}\t- connection successful with '${protocol}' ${COLOR_RESET}"
+                echo -e "\t- session master-key: $result"
             fi
-            echo "    - session master-key: $result"
         fi
     done
 }
