@@ -1,12 +1,15 @@
 # check-tls
 A simple OpenSSL wrapper to check server-side TLS capabilities.
 
+![Screenshot](https://raw.githubusercontent.com/gsbabil/check-tls/master/screenshots/screenshot-1.png)
+
 I made the script to find out supported and unsupported TLS protocol versions
 by Apple's APNS servers (`gateway.sandbox.push.apple.com:2195` and
-`gateway.push.apple.com:2195`). But the script could be useful to identify TLS
+`gateway.push.apple.com:2195`). But the script could be useful to quickly identify TLS
 protocol versions on any other SSL/TLS servers that responds to `openssl
-s_client ...`. For better results, make sure to use a recent version of
-`openssl`.
+s_client ...`.
+
+For better results, make sure to use a recent version of `openssl`.
 
 ## Example Usage
 
