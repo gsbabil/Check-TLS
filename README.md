@@ -11,11 +11,11 @@ For better results, make sure to use a recent version of `openssl`.
 
 ## Quick Usage
 
-#### Test using /usr/bin/openssl
+#### Test using /usr/local/bin/openssl
 
 ![Screenshot](https://raw.githubusercontent.com/gsbabil/check-tls/master/screenshots/screenshot-1.png)
 
-#### Test using /usr/local/bin/openssl
+#### Test using /usr/bin/openssl
 
 ![Screenshot](https://raw.githubusercontent.com/gsbabil/check-tls/master/screenshots/screenshot-2.png)
 
