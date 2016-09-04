@@ -1,0 +1,3494 @@
+{
+  "command": null,
+  "stdout": [
+    [
+      0.009842,
+      "\u001b[0m"
+    ],
+    [
+      0.001557,
+      "\u001b[0m"
+    ],
+    [
+      0.0,
+      "\u001b[0m"
+    ],
+    [
+      1.8e-05,
+      "\u001b[0m"
+    ],
+    [
+      0.000116,
+      "\u001b[0m"
+    ],
+    [
+      6.4e-05,
+      "\u001b[0m"
+    ],
+    [
+      0.000122,
+      "\u001b[0m"
+    ],
+    [
+      7.1e-05,
+      "\u001b[0m"
+    ],
+    [
+      6.6e-05,
+      "\u001b[0m"
+    ],
+    [
+      0.00112,
+      "\u001b[0m"
+    ],
+    [
+      8.2e-05,
+      "\u001b[0m"
+    ],
+    [
+      6.7e-05,
+      "\u001b[0m"
+    ],
+    [
+      6.1e-05,
+      "\u001b[0m"
+    ],
+    [
+      5.9e-05,
+      "\u001b[0m"
+    ],
+    [
+      5.8e-05,
+      "\u001b[0m"
+    ],
+    [
+      5.6e-05,
+      "\u001b[0m"
+    ],
+    [
+      5.7e-05,
+      "\u001b[0m"
+    ],
+    [
+      8.4e-05,
+      "\u001b[0m"
+    ],
+    [
+      6.1e-05,
+      "\u001b[0m"
+    ],
+    [
+      5.9e-05,
+      "\u001b[0m"
+    ],
+    [
+      6.5e-05,
+      "\u001b[0m"
+    ],
+    [
+      5.5e-05,
+      "\u001b[0m"
+    ],
+    [
+      5.5e-05,
+      "\u001b[0m"
+    ],
+    [
+      5.7e-05,
+      "\u001b[0m"
+    ],
+    [
+      6.2e-05,
+      "\u001b[0m"
+    ],
+    [
+      6.1e-05,
+      "\u001b[0m"
+    ],
+    [
+      6.1e-05,
+      "\u001b[0m"
+    ],
+    [
+      6e-05,
+      "\u001b[0m"
+    ],
+    [
+      5.8e-05,
+      "\u001b[0m"
+    ],
+    [
+      7.3e-05,
+      "\u001b[0m"
+    ],
+    [
+      8e-05,
+      "\u001b[0m"
+    ],
+    [
+      8.7e-05,
+      "\u001b[0m"
+    ],
+    [
+      8.8e-05,
+      "\u001b[0m"
+    ],
+    [
+      6.7e-05,
+      "\u001b[0m"
+    ],
+    [
+      0.040499,
+      "\u001b[0m"
+    ],
+    [
+      0.000134,
+      "\u001b[0m"
+    ],
+    [
+      9.1e-05,
+      "\u001b[0m"
+    ],
+    [
+      8e-05,
+      "\u001b[0m"
+    ],
+    [
+      7.7e-05,
+      "\u001b[0m"
+    ],
+    [
+      9.1e-05,
+      "\u001b[0m"
+    ],
+    [
+      8.7e-05,
+      "\u001b[0m"
+    ],
+    [
+      7.5e-05,
+      "\u001b[0m"
+    ],
+    [
+      0.00892,
+      "\u001b[0m"
+    ],
+    [
+      0.004333,
+      "\u001b]0;babil@Ubuntu-VirtualBox: ~/Desktop/Check-TLS\u0007\u001b[00m\u001b[0;90m----------------------------------------------------------------------------------------------------------------------------------------------------------- 02:25:09\r"
+    ],
+    [
+      5e-05,
+      "\r\n"
+    ],
+    [
+      5.3e-05,
+      "\u001b[00m\u001b[00;32m[02:25:09] \u001b[00;31mbabil@Ubuntu-VirtualBox\u001b[00m:\u001b[01;34m[~/Desktop/Check-TLS]\u001b[00;36m$\u001b[00m\u001b[00m\u001b[1;29m "
+    ],
+    [
+      1.0,
+      "."
+    ],
+    [
+      0.060983,
+      "/"
+    ],
+    [
+      0.310336,
+      "c"
+    ],
+    [
+      0.120515,
+      "h"
+    ],
+    [
+      0.088166,
+      "e"
+    ],
+    [
+      0.203926,
+      "c"
+    ],
+    [
+      0.083291,
+      "k"
+    ],
+    [
+      0.345891,
+      "-tls.sh "
+    ],
+    [
+      0.814654,
+      "g"
+    ],
+    [
+      0.324225,
+      "o"
+    ],
+    [
+      0.205419,
+      "o"
+    ],
+    [
+      0.143136,
+      "g"
+    ],
+    [
+      0.25211,
+      "l"
+    ],
+    [
+      0.073374,
+      "e"
+    ],
+    [
+      0.14729,
+      "."
+    ],
+    [
+      0.143544,
+      "c"
+    ],
+    [
+      0.119077,
+      "o"
+    ],
+    [
+      0.136738,
+      "m"
+    ],
+    [
+      0.145787,
+      " "
+    ],
+    [
+      0.711649,
+      "4"
+    ],
+    [
+      0.180919,
+      "4"
+    ],
+    [
+      0.151651,
+      "3"
+    ],
+    [
+      0.53954,
+      "\r\n\u001b[0m"
+    ],
+    [
+      0.003518,
+      "\u001b(B\u001b[m"
+    ],
+    [
+      0.00229,
+      "[+] using openssl binary at: /usr/bin/openssl"
+    ],
+    [
+      5.1e-05,
+      "\r\n"
+    ],
+    [
+      0.003464,
+      "[+] openssl version: 'OpenSSL 1.0.1f 6 Jan 2014'"
+    ],
+    [
+      5.1e-05,
+      "\r\n"
+    ],
+    [
+      0.008376,
+      "[+] protocols supported by openssl: -ssl2 -ssl3 -tls1_2 -tls1_1 -tls1 -dtls1"
+    ],
+    [
+      4.6e-05,
+      "\r\n"
+    ],
+    [
+      0.004232,
+      "[+] ciphers supported by openssl: ECDHE-RSA-AES256-GCM-SHA384 ECDHE-ECDSA-AES256-GCM-SHA384 ECDHE-RSA-AES256-SHA384 ECDHE-ECDSA-AES256-SHA384 ECDHE-RSA-AES256-SHA ECDHE-ECDSA-AES256-SHA SRP-DSS-AES-256-CBC-SHA SRP-RSA-AES-256-CBC-SHA SRP-AES-256-CBC-SHA DHE-DSS-AES256-GCM-SHA384 DHE-RSA-AES256-GCM-SHA384 DHE-RSA-AES256-SHA256 DHE-DSS-AES256-SHA256 DHE-RSA-AES256-SHA DHE-DSS-AES256-SHA DHE-RSA-CAMELLIA256-SHA DHE-DSS-CAMELLIA256-SHA AECDH-AES256-SHA ADH-AES256-GCM-SHA384 ADH-AES256-SHA256 ADH-AES256-SHA ADH-CAMELLIA256-SHA ECDH-RSA-AES256-GCM-SHA384 ECDH-ECDSA-AES256-GCM-SHA384 ECDH-RSA-AES256-SHA384 ECDH-ECDSA-AES256-SHA384 ECDH-RSA-AES256-SHA ECDH-ECDSA-AES256-SHA AES256-GCM-SHA384 AES256-SHA256 AES256-SHA CAMELLIA256-SHA PSK-AES256-CBC-SHA ECDHE-RSA-DES-CBC3-SHA ECDHE-ECDSA-DES-CBC3-SHA SRP-DSS-3DES-EDE-CBC-SHA SRP-RSA-3DES-EDE-CBC-SHA SRP-3DES-EDE-CBC-SHA EDH-RSA-DES-CBC3-SHA EDH-DSS-DES-CBC3-SHA AECDH-DES-CBC3-SHA ADH-DES-CBC3-SHA ECDH-RSA-DES-CBC3-SHA ECDH-ECDSA-DES-CBC3-SHA DES-CBC3-SHA "
+    ],
+    [
+      5.4e-05,
+      "PSK-3DES-EDE-CBC-SHA ECDHE-RSA-AES128-GCM-SHA256 ECDHE-ECDSA-AES128-GCM-SHA256 ECDHE-RSA-AES128-SHA256 ECDHE-ECDSA-AES128-SHA256 ECDHE-RSA-AES128-SHA ECDHE-ECDSA-AES128-SHA SRP-DSS-AES-128-CBC-SHA SRP-RSA-AES-128-CBC-SHA SRP-AES-128-CBC-SHA DHE-DSS-AES128-GCM-SHA256 DHE-RSA-AES128-GCM-SHA256 DHE-RSA-AES128-SHA256 DHE-DSS-AES128-SHA256 DHE-RSA-AES128-SHA DHE-DSS-AES128-SHA DHE-RSA-SEED-SHA DHE-DSS-SEED-SHA DHE-RSA-CAMELLIA128-SHA DHE-DSS-CAMELLIA128-SHA AECDH-AES128-SHA ADH-AES128-GCM-SHA256 ADH-AES128-SHA256 ADH-AES128-SHA ADH-SEED-SHA ADH-CAMELLIA128-SHA ECDH-RSA-AES128-GCM-SHA256 ECDH-ECDSA-AES128-GCM-SHA256 ECDH-RSA-AES128-SHA256 ECDH-ECDSA-AES128-SHA256 ECDH-RSA-AES128-SHA ECDH-ECDSA-AES128-SHA AES128-GCM-SHA256 AES128-SHA256 AES128-SHA SEED-SHA CAMELLIA128-SHA PSK-AES128-CBC-SHA ECDHE-RSA-RC4-SHA ECDHE-ECDSA-RC4-SHA AECDH-RC4-SHA ADH-RC4-MD5 ECDH-RSA-RC4-SHA ECDH-ECDSA-RC4-SHA RC4-SHA RC4-MD5 PSK-RC4-SHA EDH-RSA-DES-CBC-SHA EDH-DSS-DES-CBC-SHA ADH-DES-CBC-SHA DES-CBC-SHA EXP-EDH-RSA-DES-C"
+    ],
+    [
+      4.3e-05,
+      "BC-SHA EXP-EDH-DSS-DES-CBC-SHA EXP-ADH-DES-CBC-SHA EXP-DES-CBC-SHA EXP-RC2-CBC-MD5 EXP-ADH-RC4-MD5 EXP-RC4-MD5 ECDHE-RSA-NULL-SHA ECDHE-ECDSA-NULL-SHA AECDH-NULL-SHA ECDH-RSA-NULL-SHA ECDH-ECDSA-NULL-SHA NULL-SHA256 NULL-SHA NULL-MD5"
+    ],
+    [
+      3.5e-05,
+      "\r\n"
+    ],
+    [
+      3.9e-05,
+      "\r\n"
+    ],
+    [
+      6.4e-05,
+      "[+] ignored protocols from check: dtls1"
+    ],
+    [
+      3.6e-05,
+      "\r\n"
+    ],
+    [
+      4.6e-05,
+      "\r\n"
+    ],
+    [
+      0.001154,
+      "[+] checking -ssl2 on google.com:443"
+    ],
+    [
+      5.1e-05,
+      "\r\n"
+    ],
+    [
+      0.013269,
+      "[+] checking -ssl3 on google.com:443"
+    ],
+    [
+      5.6e-05,
+      "\r\n"
+    ],
+    [
+      0.099978,
+      "[+] checking -tls1_2 on google.com:443"
+    ],
+    [
+      6e-05,
+      "\r\n"
+    ],
+    [
+      0.26633,
+      "[+] checking -tls1_1 on google.com:443"
+    ],
+    [
+      7.7e-05,
+      "\r\n"
+    ],
+    [
+      0.134206,
+      "[+] checking -tls1 on google.com:443"
+    ],
+    [
+      7.6e-05,
+      "\r\n"
+    ],
+    [
+      0.128609,
+      "\r\n"
+    ],
+    [
+      0.000124,
+      "[+] protocols detected on google.com:443:  -tls1_2 -tls1_1 -tls1"
+    ],
+    [
+      4e-05,
+      "\r\n"
+    ],
+    [
+      5e-05,
+      "[+] proceeding to detect supported ciphers ..."
+    ],
+    [
+      3.4e-05,
+      "\r\n"
+    ],
+    [
+      4e-05,
+      "\r\n"
+    ],
+    [
+      0.125987,
+      "\u001b[34m  - connection successful with -tls1_2:ECDHE-RSA-AES256-GCM-SHA384"
+    ],
+    [
+      0.000109,
+      "\r\n"
+    ],
+    [
+      0.00011,
+      "\u001b[34m  - session master-key: 4A8A4F16E3F8B96662E076AA7B448750168B45D3AEF3D9D7982C384956C682AD30C5E57816F666E9CC7DBDA9F321303E \u001b(B\u001b[m"
+    ],
+    [
+      3.9e-05,
+      "\r\n"
+    ],
+    [
+      0.100442,
+      "\u001b[31m  - connection failed with -tls1_2:ECDHE-ECDSA-AES256-GCM-SHA384 \u001b(B\u001b[m"
+    ],
+    [
+      7.8e-05,
+      "\r\n"
+    ],
+    [
+      0.148181,
+      "\u001b[34m  - connection successful with -tls1_2:ECDHE-RSA-AES256-SHA384"
+    ],
+    [
+      8.3e-05,
+      "\r\n"
+    ],
+    [
+      6.7e-05,
+      "\u001b[34m  - session master-key: 4E6AD1F9A16B7F87812BB93F3F848CF7D5DF0A95E1341CFFCB9E2DE7857ADA0411BFE66FBFB94733D8782B24145E0CFE \u001b(B\u001b[m"
+    ],
+    [
+      3.6e-05,
+      "\r\n"
+    ],
+    [
+      0.110201,
+      "\u001b[31m  - connection failed with -tls1_2:ECDHE-ECDSA-AES256-SHA384 \u001b(B\u001b[m"
+    ],
+    [
+      0.000496,
+      "\r\n"
+    ],
+    [
+      0.154926,
+      "\u001b[34m  - connection successful with -tls1_2:ECDHE-RSA-AES256-SHA"
+    ],
+    [
+      0.000132,
+      "\r\n"
+    ],
+    [
+      0.000128,
+      "\u001b[34m  - session master-key: 4DF3B716D19B333E912A74FB39AEFB37444FD3ED914708532859664E943BCBF8DA8319F57D6422C48E94FF9A5F80C0DF \u001b(B\u001b[m"
+    ],
+    [
+      6.9e-05,
+      "\r\n"
+    ],
+    [
+      0.127991,
+      "\u001b[31m  - connection failed with -tls1_2:ECDHE-ECDSA-AES256-SHA \u001b(B\u001b[m"
+    ],
+    [
+      0.000157,
+      "\r\n"
+    ],
+    [
+      0.072912,
+      "\u001b[31m  - connection failed with -tls1_2:SRP-DSS-AES-256-CBC-SHA \u001b(B\u001b[m"
+    ],
+    [
+      0.000106,
+      "\r\n"
+    ],
+    [
+      0.059486,
+      "\u001b[31m  - connection failed with -tls1_2:SRP-RSA-AES-256-CBC-SHA \u001b(B\u001b[m"
+    ],
+    [
+      7.1e-05,
+      "\r\n"
+    ],
+    [
+      0.08307,
+      "\u001b[31m  - connection failed with -tls1_2:SRP-AES-256-CBC-SHA \u001b(B\u001b[m"
+    ],
+    [
+      7.9e-05,
+      "\r\n"
+    ],
+    [
+      0.144582,
+      "\u001b[31m  - connection failed with -tls1_2:DHE-DSS-AES256-GCM-SHA384 \u001b(B\u001b[m"
+    ],
+    [
+      8.3e-05,
+      "\r\n"
+    ],
+    [
+      0.092463,
+      "\u001b[31m  - connection failed with -tls1_2:DHE-RSA-AES256-GCM-SHA384 \u001b(B\u001b[m"
+    ],
+    [
+      8.1e-05,
+      "\r\n"
+    ],
+    [
+      0.089664,
+      "\u001b[31m  - connection failed with -tls1_2:DHE-RSA-AES256-SHA256 \u001b(B\u001b[m"
+    ],
+    [
+      8.3e-05,
+      "\r\n"
+    ],
+    [
+      0.098819,
+      "\u001b[31m  - connection failed with -tls1_2:DHE-DSS-AES256-SHA256 \u001b(B\u001b[m"
+    ],
+    [
+      8.4e-05,
+      "\r\n"
+    ],
+    [
+      0.106048,
+      "\u001b[31m  - connection failed with -tls1_2:DHE-RSA-AES256-SHA \u001b(B\u001b[m"
+    ],
+    [
+      0.000246,
+      "\r\n"
+    ],
+    [
+      0.116643,
+      "\u001b[31m  - connection failed with -tls1_2:DHE-DSS-AES256-SHA \u001b(B\u001b[m"
+    ],
+    [
+      8.3e-05,
+      "\r\n"
+    ],
+    [
+      0.100351,
+      "\u001b[31m  - connection failed with -tls1_2:DHE-RSA-CAMELLIA256-SHA \u001b(B\u001b[m"
+    ],
+    [
+      8.2e-05,
+      "\r\n"
+    ],
+    [
+      0.141338,
+      "\u001b[31m  - connection failed with -tls1_2:DHE-DSS-CAMELLIA256-SHA \u001b(B\u001b[m"
+    ],
+    [
+      0.00017,
+      "\r\n"
+    ],
+    [
+      0.118243,
+      "\u001b[31m  - connection failed with -tls1_2:AECDH-AES256-SHA \u001b(B\u001b[m"
+    ],
+    [
+      8.3e-05,
+      "\r\n"
+    ],
+    [
+      0.092796,
+      "\u001b[31m  - connection failed with -tls1_2:ADH-AES256-GCM-SHA384 \u001b(B\u001b[m"
+    ],
+    [
+      7.9e-05,
+      "\r\n"
+    ],
+    [
+      0.093866,
+      "\u001b[31m  - connection failed with -tls1_2:ADH-AES256-SHA256 \u001b(B\u001b[m"
+    ],
+    [
+      7.9e-05,
+      "\r\n"
+    ],
+    [
+      0.102767,
+      "\u001b[31m  - connection failed with -tls1_2:ADH-AES256-SHA \u001b(B\u001b[m"
+    ],
+    [
+      0.000189,
+      "\r\n"
+    ],
+    [
+      0.116723,
+      "\u001b[31m  - connection failed with -tls1_2:ADH-CAMELLIA256-SHA \u001b(B\u001b[m"
+    ],
+    [
+      0.000261,
+      "\r\n"
+    ],
+    [
+      0.115904,
+      "\u001b[31m  - connection failed with -tls1_2:ECDH-RSA-AES256-GCM-SHA384 \u001b(B\u001b[m"
+    ],
+    [
+      0.000121,
+      "\r\n"
+    ],
+    [
+      0.094165,
+      "\u001b[31m  - connection failed with -tls1_2:ECDH-ECDSA-AES256-GCM-SHA384 \u001b(B\u001b[m"
+    ],
+    [
+      0.000114,
+      "\r\n"
+    ],
+    [
+      0.098213,
+      "\u001b[31m  - connection failed with -tls1_2:ECDH-RSA-AES256-SHA384 \u001b(B\u001b[m"
+    ],
+    [
+      8.3e-05,
+      "\r\n"
+    ],
+    [
+      0.095203,
+      "\u001b[31m  - connection failed with -tls1_2:ECDH-ECDSA-AES256-SHA384 \u001b(B\u001b[m"
+    ],
+    [
+      8.2e-05,
+      "\r\n"
+    ],
+    [
+      0.091264,
+      "\u001b[31m  - connection failed with -tls1_2:ECDH-RSA-AES256-SHA \u001b(B\u001b[m"
+    ],
+    [
+      8.1e-05,
+      "\r\n"
+    ],
+    [
+      0.101363,
+      "\u001b[31m  - connection failed with -tls1_2:ECDH-ECDSA-AES256-SHA \u001b(B\u001b[m"
+    ],
+    [
+      0.000117,
+      "\r\n"
+    ],
+    [
+      0.132324,
+      "\u001b[34m  - connection successful with -tls1_2:AES256-GCM-SHA384"
+    ],
+    [
+      8.2e-05,
+      "\r\n"
+    ],
+    [
+      6.7e-05,
+      "\u001b[34m  - session master-key: 84904444CDE3C17FA0CA8BE419263C4538E18961437CAD4275594E6A469FCC64BD601B41448875C67A86999D32DED1D6 \u001b(B\u001b[m"
+    ],
+    [
+      4.1e-05,
+      "\r\n"
+    ],
+    [
+      0.152363,
+      "\u001b[34m  - connection successful with -tls1_2:AES256-SHA256"
+    ],
+    [
+      0.000299,
+      "\r\n"
+    ],
+    [
+      0.000304,
+      "\u001b[34m  - session master-key: 7985C71A64EDCA3AA33A1C6756A13795C1CBAB497E943C597F01299466744F446248D986FF93E00C8F994784904ECFB0 \u001b(B\u001b[m"
+    ],
+    [
+      0.00021,
+      "\r\n"
+    ],
+    [
+      0.189536,
+      "\u001b[34m  - connection successful with -tls1_2:AES256-SHA"
+    ],
+    [
+      0.000332,
+      "\r\n"
+    ],
+    [
+      0.00028,
+      "\u001b[34m  - session master-key: DFB82A86E9383935CFE660B57BF901AE929D1BD7F9F36A90590307165F41411DD1C3DDBEE8635FD367EDDB14A1DCBA39 \u001b(B\u001b[m"
+    ],
+    [
+      0.00016,
+      "\r\n"
+    ],
+    [
+      0.124178,
+      "\u001b[31m  - connection failed with -tls1_2:CAMELLIA256-SHA \u001b(B\u001b[m"
+    ],
+    [
+      0.000322,
+      "\r\n"
+    ],
+    [
+      0.09515,
+      "\u001b[31m  - connection failed with -tls1_2:PSK-AES256-CBC-SHA \u001b(B\u001b[m"
+    ],
+    [
+      0.000486,
+      "\r\n"
+    ],
+    [
+      0.108192,
+      "\u001b[31m  - connection failed with -tls1_2:ECDHE-RSA-DES-CBC3-SHA \u001b(B\u001b[m"
+    ],
+    [
+      0.000153,
+      "\r\n"
+    ],
+    [
+      0.175094,
+      "\u001b[31m  - connection failed with -tls1_2:ECDHE-ECDSA-DES-CBC3-SHA \u001b(B\u001b[m"
+    ],
+    [
+      0.000132,
+      "\r\n"
+    ],
+    [
+      0.072806,
+      "\u001b[31m  - connection failed with -tls1_2:SRP-DSS-3DES-EDE-CBC-SHA \u001b(B\u001b[m"
+    ],
+    [
+      0.000134,
+      "\r\n"
+    ],
+    [
+      0.082869,
+      "\u001b[31m  - connection failed with -tls1_2:SRP-RSA-3DES-EDE-CBC-SHA \u001b(B\u001b[m"
+    ],
+    [
+      0.000131,
+      "\r\n"
+    ],
+    [
+      0.081912,
+      "\u001b[31m  - connection failed with -tls1_2:SRP-3DES-EDE-CBC-SHA \u001b(B\u001b[m"
+    ],
+    [
+      0.000112,
+      "\r\n"
+    ],
+    [
+      0.161518,
+      "\u001b[31m  - connection failed with -tls1_2:EDH-RSA-DES-CBC3-SHA \u001b(B\u001b[m"
+    ],
+    [
+      0.000244,
+      "\r\n"
+    ],
+    [
+      0.125601,
+      "\u001b[31m  - connection failed with -tls1_2:EDH-DSS-DES-CBC3-SHA \u001b(B\u001b[m"
+    ],
+    [
+      0.000288,
+      "\r\n"
+    ],
+    [
+      0.102754,
+      "\u001b[31m  - connection failed with -tls1_2:AECDH-DES-CBC3-SHA \u001b(B\u001b[m"
+    ],
+    [
+      7.7e-05,
+      "\r\n"
+    ],
+    [
+      0.118301,
+      "\u001b[31m  - connection failed with -tls1_2:ADH-DES-CBC3-SHA \u001b(B\u001b[m"
+    ],
+    [
+      0.000269,
+      "\r\n"
+    ],
+    [
+      0.134742,
+      "\u001b[31m  - connection failed with -tls1_2:ECDH-RSA-DES-CBC3-SHA \u001b(B\u001b[m"
+    ],
+    [
+      0.000371,
+      "\r\n"
+    ],
+    [
+      0.110628,
+      "\u001b[31m  - connection failed with -tls1_2:ECDH-ECDSA-DES-CBC3-SHA \u001b(B\u001b[m"
+    ],
+    [
+      8.3e-05,
+      "\r\n"
+    ],
+    [
+      0.1457,
+      "\u001b[34m  - connection successful with -tls1_2:DES-CBC3-SHA"
+    ],
+    [
+      0.00013,
+      "\r\n"
+    ],
+    [
+      6.3e-05,
+      "\u001b[34m  - session master-key: 690BDB922ECD76CB7D0852CE96A9E2C63B86B36459B4E4C235812A79B092F31A860880376260CDE1D761A3D4282480E5 \u001b(B\u001b[m"
+    ],
+    [
+      6e-05,
+      "\r\n"
+    ],
+    [
+      0.084167,
+      "\u001b[31m  - connection failed with -tls1_2:PSK-3DES-EDE-CBC-SHA \u001b(B\u001b[m"
+    ],
+    [
+      1e-06,
+      "\r\n"
+    ],
+    [
+      0.153353,
+      "\u001b[34m  - connection successful with -tls1_2:ECDHE-RSA-AES128-GCM-SHA256"
+    ],
+    [
+      0.000252,
+      "\r\n"
+    ],
+    [
+      0.000415,
+      "\u001b[34m  - session master-key: 01CFE11076B75B86C692EBAE5CA0720F5E9CB142C827966175BDED66764AE45FAA44198A6CAE29EF2AEBA95CB0066DD7 \u001b(B\u001b[m"
+    ],
+    [
+      0.000252,
+      "\r\n"
+    ],
+    [
+      0.112982,
+      "\u001b[31m  - connection failed with -tls1_2:ECDHE-ECDSA-AES128-GCM-SHA256 \u001b(B\u001b[m"
+    ],
+    [
+      8.5e-05,
+      "\r\n"
+    ],
+    [
+      0.181851,
+      "\u001b[34m  - connection successful with -tls1_2:ECDHE-RSA-AES128-SHA256"
+    ],
+    [
+      0.000155,
+      "\r\n"
+    ],
+    [
+      0.000156,
+      "\u001b[34m  - session master-key: A1A6ECC71B84B503DF9FC96D14CC4540385A9C90D79978CA9FF2D4FD968EEE656F9AEE215353EB481605E908431FF9B8 \u001b(B\u001b[m"
+    ],
+    [
+      8.8e-05,
+      "\r\n"
+    ],
+    [
+      0.111795,
+      "\u001b[31m  - connection failed with -tls1_2:ECDHE-ECDSA-AES128-SHA256 \u001b(B\u001b[m"
+    ],
+    [
+      8e-05,
+      "\r\n"
+    ],
+    [
+      0.145245,
+      "\u001b[34m  - connection successful with -tls1_2:ECDHE-RSA-AES128-SHA"
+    ],
+    [
+      9.3e-05,
+      "\r\n"
+    ],
+    [
+      8.9e-05,
+      "\u001b[34m  - session master-key: 195D3E2D548B70C70FBFF2371D65571E606BD000CD5CA78C87CD2A0D0CB9868A29C7AC5AB9F15FBAA43230A3B1B7FB02 \u001b(B\u001b[m"
+    ],
+    [
+      4.9e-05,
+      "\r\n"
+    ],
+    [
+      0.109737,
+      "\u001b[31m  - connection failed with -tls1_2:ECDHE-ECDSA-AES128-SHA \u001b(B\u001b[m"
+    ],
+    [
+      0.000137,
+      "\r\n"
+    ],
+    [
+      0.071208,
+      "\u001b[31m  - connection failed with -tls1_2:SRP-DSS-AES-128-CBC-SHA \u001b(B\u001b[m"
+    ],
+    [
+      0.000101,
+      "\r\n"
+    ],
+    [
+      0.08485,
+      "\u001b[31m  - connection failed with -tls1_2:SRP-RSA-AES-128-CBC-SHA \u001b(B\u001b[m"
+    ],
+    [
+      0.000258,
+      "\r\n"
+    ],
+    [
+      0.076317,
+      "\u001b[31m  - connection failed with -tls1_2:SRP-AES-128-CBC-SHA \u001b(B\u001b[m"
+    ],
+    [
+      9.7e-05,
+      "\r\n"
+    ],
+    [
+      0.09503,
+      "\u001b[31m  - connection failed with -tls1_2:DHE-DSS-AES128-GCM-SHA256 \u001b(B\u001b[m"
+    ],
+    [
+      0.000119,
+      "\r\n"
+    ],
+    [
+      0.105106,
+      "\u001b[31m  - connection failed with -tls1_2:DHE-RSA-AES128-GCM-SHA256 \u001b(B\u001b[m"
+    ],
+    [
+      0.000109,
+      "\r\n"
+    ],
+    [
+      0.099904,
+      "\u001b[31m  - connection failed with -tls1_2:DHE-RSA-AES128-SHA256 \u001b(B\u001b[m"
+    ],
+    [
+      0.000101,
+      "\r\n"
+    ],
+    [
+      0.096206,
+      "\u001b[31m  - connection failed with -tls1_2:DHE-DSS-AES128-SHA256 \u001b(B\u001b[m"
+    ],
+    [
+      9.4e-05,
+      "\r\n"
+    ],
+    [
+      0.113398,
+      "\u001b[31m  - connection failed with -tls1_2:DHE-RSA-AES128-SHA \u001b(B\u001b[m"
+    ],
+    [
+      8.3e-05,
+      "\r\n"
+    ],
+    [
+      0.094984,
+      "\u001b[31m  - connection failed with -tls1_2:DHE-DSS-AES128-SHA \u001b(B\u001b[m"
+    ],
+    [
+      8.4e-05,
+      "\r\n"
+    ],
+    [
+      0.086352,
+      "\u001b[31m  - connection failed with -tls1_2:DHE-RSA-SEED-SHA \u001b(B\u001b[m"
+    ],
+    [
+      7.8e-05,
+      "\r\n"
+    ],
+    [
+      0.103231,
+      "\u001b[31m  - connection failed with -tls1_2:DHE-DSS-SEED-SHA \u001b(B\u001b[m"
+    ],
+    [
+      0.000115,
+      "\r\n"
+    ],
+    [
+      0.109818,
+      "\u001b[31m  - connection failed with -tls1_2:DHE-RSA-CAMELLIA128-SHA \u001b(B\u001b[m"
+    ],
+    [
+      0.00015,
+      "\r\n"
+    ],
+    [
+      0.113928,
+      "\u001b[31m  - connection failed with -tls1_2:DHE-DSS-CAMELLIA128-SHA \u001b(B\u001b[m"
+    ],
+    [
+      9.7e-05,
+      "\r\n"
+    ],
+    [
+      0.114456,
+      "\u001b[31m  - connection failed with -tls1_2:AECDH-AES128-SHA \u001b(B\u001b[m"
+    ],
+    [
+      0.000305,
+      "\r\n"
+    ],
+    [
+      0.11835,
+      "\u001b[31m  - connection failed with -tls1_2:ADH-AES128-GCM-SHA256 \u001b(B\u001b[m"
+    ],
+    [
+      0.000191,
+      "\r\n"
+    ],
+    [
+      0.103245,
+      "\u001b[31m  - connection failed with -tls1_2:ADH-AES128-SHA256 \u001b(B\u001b[m"
+    ],
+    [
+      0.000152,
+      "\r\n"
+    ],
+    [
+      0.093809,
+      "\u001b[31m  - connection failed with -tls1_2:ADH-AES128-SHA \u001b(B\u001b[m"
+    ],
+    [
+      9.1e-05,
+      "\r\n"
+    ],
+    [
+      0.0925,
+      "\u001b[31m  - connection failed with -tls1_2:ADH-SEED-SHA \u001b(B\u001b[m"
+    ],
+    [
+      8.2e-05,
+      "\r\n"
+    ],
+    [
+      0.094629,
+      "\u001b[31m  - connection failed with -tls1_2:ADH-CAMELLIA128-SHA \u001b(B\u001b[m"
+    ],
+    [
+      8e-05,
+      "\r\n"
+    ],
+    [
+      0.107983,
+      "\u001b[31m  - connection failed with -tls1_2:ECDH-RSA-AES128-GCM-SHA256 \u001b(B\u001b[m"
+    ],
+    [
+      0.000152,
+      "\r\n"
+    ],
+    [
+      0.096657,
+      "\u001b[31m  - connection failed with -tls1_2:ECDH-ECDSA-AES128-GCM-SHA256 \u001b(B\u001b[m"
+    ],
+    [
+      8.1e-05,
+      "\r\n"
+    ],
+    [
+      0.099255,
+      "\u001b[31m  - connection failed with -tls1_2:ECDH-RSA-AES128-SHA256 \u001b(B\u001b[m"
+    ],
+    [
+      8e-05,
+      "\r\n"
+    ],
+    [
+      0.098793,
+      "\u001b[31m  - connection failed with -tls1_2:ECDH-ECDSA-AES128-SHA256 \u001b(B\u001b[m"
+    ],
+    [
+      0.0001,
+      "\r\n"
+    ],
+    [
+      0.091563,
+      "\u001b[31m  - connection failed with -tls1_2:ECDH-RSA-AES128-SHA \u001b(B\u001b[m"
+    ],
+    [
+      8.2e-05,
+      "\r\n"
+    ],
+    [
+      0.105212,
+      "\u001b[31m  - connection failed with -tls1_2:ECDH-ECDSA-AES128-SHA \u001b(B\u001b[m"
+    ],
+    [
+      0.000104,
+      "\r\n"
+    ],
+    [
+      0.134455,
+      "\u001b[34m  - connection successful with -tls1_2:AES128-GCM-SHA256"
+    ],
+    [
+      8.2e-05,
+      "\r\n"
+    ],
+    [
+      6.5e-05,
+      "\u001b[34m  - session master-key: A23810001FCA461B84860937490A3EE54BC53F13C1A1A55F4FBBFF78EE4B4470BDED51234BB4B186399FF92234B875AF \u001b(B\u001b[m"
+    ],
+    [
+      3.6e-05,
+      "\r\n"
+    ],
+    [
+      0.149666,
+      "\u001b[34m  - connection successful with -tls1_2:AES128-SHA256"
+    ],
+    [
+      0.00013,
+      "\r\n"
+    ],
+    [
+      0.000135,
+      "\u001b[34m  - session master-key: 1C87860A6C3125B9C730B4D98E922FC492E77D750DAFFF6D713418A5ECE604CAD6B8ABA5CFA4C162C6FCB4B2973B0BDE \u001b(B\u001b[m"
+    ],
+    [
+      7.4e-05,
+      "\r\n"
+    ],
+    [
+      0.141786,
+      "\u001b[34m  - connection successful with -tls1_2:AES128-SHA"
+    ],
+    [
+      0.000134,
+      "\r\n"
+    ],
+    [
+      0.000139,
+      "\u001b[34m  - session master-key: A7BC362C812082EB848703785BD3E9AEE4D48908CBCE2B936ECE012E01006A148921FBF8EF174E70D25AD98FAF512C79 \u001b(B\u001b[m"
+    ],
+    [
+      7.7e-05,
+      "\r\n"
+    ],
+    [
+      0.115009,
+      "\u001b[31m  - connection failed with -tls1_2:SEED-SHA \u001b(B\u001b[m"
+    ],
+    [
+      7.8e-05,
+      "\r\n"
+    ],
+    [
+      0.091511,
+      "\u001b[31m  - connection failed with -tls1_2:CAMELLIA128-SHA \u001b(B\u001b[m"
+    ],
+    [
+      8.3e-05,
+      "\r\n"
+    ],
+    [
+      0.065205,
+      "\u001b[31m  - connection failed with -tls1_2:PSK-AES128-CBC-SHA \u001b(B\u001b[m"
+    ],
+    [
+      8e-05,
+      "\r\n"
+    ],
+    [
+      0.093917,
+      "\u001b[31m  - connection failed with -tls1_2:ECDHE-RSA-RC4-SHA \u001b(B\u001b[m"
+    ],
+    [
+      8.2e-05,
+      "\r\n"
+    ],
+    [
+      0.11734,
+      "\u001b[31m  - connection failed with -tls1_2:ECDHE-ECDSA-RC4-SHA \u001b(B\u001b[m"
+    ],
+    [
+      7.9e-05,
+      "\r\n"
+    ],
+    [
+      0.111588,
+      "\u001b[31m  - connection failed with -tls1_2:AECDH-RC4-SHA \u001b(B\u001b[m"
+    ],
+    [
+      0.000178,
+      "\r\n"
+    ],
+    [
+      0.103054,
+      "\u001b[31m  - connection failed with -tls1_2:ADH-RC4-MD5 \u001b(B\u001b[m"
+    ],
+    [
+      0.000115,
+      "\r\n"
+    ],
+    [
+      0.094709,
+      "\u001b[31m  - connection failed with -tls1_2:ECDH-RSA-RC4-SHA \u001b(B\u001b[m"
+    ],
+    [
+      8.2e-05,
+      "\r\n"
+    ],
+    [
+      0.095069,
+      "\u001b[31m  - connection failed with -tls1_2:ECDH-ECDSA-RC4-SHA \u001b(B\u001b[m"
+    ],
+    [
+      8e-05,
+      "\r\n"
+    ],
+    [
+      0.100754,
+      "\u001b[31m  - connection failed with -tls1_2:RC4-SHA \u001b(B\u001b[m"
+    ],
+    [
+      8e-05,
+      "\r\n"
+    ],
+    [
+      0.092973,
+      "\u001b[31m  - connection failed with -tls1_2:RC4-MD5 \u001b(B\u001b[m"
+    ],
+    [
+      7.5e-05,
+      "\r\n"
+    ],
+    [
+      0.067015,
+      "\u001b[31m  - connection failed with -tls1_2:PSK-RC4-SHA \u001b(B\u001b[m"
+    ],
+    [
+      7.3e-05,
+      "\r\n"
+    ],
+    [
+      0.098893,
+      "\u001b[31m  - connection failed with -tls1_2:EDH-RSA-DES-CBC-SHA \u001b(B\u001b[m"
+    ],
+    [
+      8.1e-05,
+      "\r\n"
+    ],
+    [
+      0.092534,
+      "\u001b[31m  - connection failed with -tls1_2:EDH-DSS-DES-CBC-SHA \u001b(B\u001b[m"
+    ],
+    [
+      8.3e-05,
+      "\r\n"
+    ],
+    [
+      0.110369,
+      "\u001b[31m  - connection failed with -tls1_2:ADH-DES-CBC-SHA \u001b(B\u001b[m"
+    ],
+    [
+      0.000301,
+      "\r\n"
+    ],
+    [
+      0.123042,
+      "\u001b[31m  - connection failed with -tls1_2:DES-CBC-SHA \u001b(B\u001b[m"
+    ],
+    [
+      0.000127,
+      "\r\n"
+    ],
+    [
+      0.117562,
+      "\u001b[31m  - connection failed with -tls1_2:EXP-EDH-RSA-DES-CBC-SHA \u001b(B\u001b[m"
+    ],
+    [
+      8.3e-05,
+      "\r\n"
+    ],
+    [
+      0.111968,
+      "\u001b[31m  - connection failed with -tls1_2:EXP-EDH-DSS-DES-CBC-SHA \u001b(B\u001b[m"
+    ],
+    [
+      0.000304,
+      "\r\n"
+    ],
+    [
+      0.116414,
+      "\u001b[31m  - connection failed with -tls1_2:EXP-ADH-DES-CBC-SHA \u001b(B\u001b[m"
+    ],
+    [
+      8.4e-05,
+      "\r\n"
+    ],
+    [
+      0.110132,
+      "\u001b[31m  - connection failed with -tls1_2:EXP-DES-CBC-SHA \u001b(B\u001b[m"
+    ],
+    [
+      0.000174,
+      "\r\n"
+    ],
+    [
+      0.114103,
+      "\u001b[31m  - connection failed with -tls1_2:EXP-RC2-CBC-MD5 \u001b(B\u001b[m"
+    ],
+    [
+      0.0001,
+      "\r\n"
+    ],
+    [
+      0.09473,
+      "\u001b[31m  - connection failed with -tls1_2:EXP-ADH-RC4-MD5 \u001b(B\u001b[m"
+    ],
+    [
+      8.3e-05,
+      "\r\n"
+    ],
+    [
+      0.09694,
+      "\u001b[31m  - connection failed with -tls1_2:EXP-RC4-MD5 \u001b(B\u001b[m"
+    ],
+    [
+      7.9e-05,
+      "\r\n"
+    ],
+    [
+      0.09918,
+      "\u001b[31m  - connection failed with -tls1_2:ECDHE-RSA-NULL-SHA \u001b(B\u001b[m"
+    ],
+    [
+      9.1e-05,
+      "\r\n"
+    ],
+    [
+      0.090382,
+      "\u001b[31m  - connection failed with -tls1_2:ECDHE-ECDSA-NULL-SHA \u001b(B\u001b[m"
+    ],
+    [
+      0.000532,
+      "\r\n"
+    ],
+    [
+      0.10298,
+      "\u001b[31m  - connection failed with -tls1_2:AECDH-NULL-SHA \u001b(B\u001b[m"
+    ],
+    [
+      0.0,
+      "\r\n"
+    ],
+    [
+      0.246047,
+      "\u001b[31m  - connection failed with -tls1_2:ECDH-RSA-NULL-SHA \u001b(B\u001b[m"
+    ],
+    [
+      0.0001,
+      "\r\n"
+    ],
+    [
+      0.221265,
+      "\u001b[31m  - connection failed with -tls1_2:ECDH-ECDSA-NULL-SHA \u001b(B\u001b[m"
+    ],
+    [
+      8.2e-05,
+      "\r\n"
+    ],
+    [
+      0.095652,
+      "\u001b[31m  - connection failed with -tls1_2:NULL-SHA256 \u001b(B\u001b[m"
+    ],
+    [
+      8.3e-05,
+      "\r\n"
+    ],
+    [
+      0.121361,
+      "\u001b[31m  - connection failed with -tls1_2:NULL-SHA \u001b(B\u001b[m"
+    ],
+    [
+      8.6e-05,
+      "\r\n"
+    ],
+    [
+      0.089758,
+      "\u001b[31m  - connection failed with -tls1_2:NULL-MD5 \u001b(B\u001b[m"
+    ],
+    [
+      8.2e-05,
+      "\r\n"
+    ],
+    [
+      0.079672,
+      "\u001b[31m  - connection failed with -tls1_1:ECDHE-RSA-AES256-GCM-SHA384 \u001b(B\u001b[m"
+    ],
+    [
+      0.00015,
+      "\r\n"
+    ],
+    [
+      0.089891,
+      "\u001b[31m  - connection failed with -tls1_1:ECDHE-ECDSA-AES256-GCM-SHA384 \u001b(B\u001b[m"
+    ],
+    [
+      0.000316,
+      "\r\n"
+    ],
+    [
+      0.098601,
+      "\u001b[31m  - connection failed with -tls1_1:ECDHE-RSA-AES256-SHA384 \u001b(B\u001b[m"
+    ],
+    [
+      8.2e-05,
+      "\r\n"
+    ],
+    [
+      0.071188,
+      "\u001b[31m  - connection failed with -tls1_1:ECDHE-ECDSA-AES256-SHA384 \u001b(B\u001b[m"
+    ],
+    [
+      8.1e-05,
+      "\r\n"
+    ],
+    [
+      0.128645,
+      "\u001b[34m  - connection successful with -tls1_1:ECDHE-RSA-AES256-SHA"
+    ],
+    [
+      8.2e-05,
+      "\r\n"
+    ],
+    [
+      6.8e-05,
+      "\u001b[34m  - session master-key: 7B513693430C412DD02D849DB9D887F757F1807A51983AE7BDBBE2D9640145CAC125DF7BDDAC18C9C5453C5173EB63ED \u001b(B\u001b[m"
+    ],
+    [
+      3.8e-05,
+      "\r\n"
+    ],
+    [
+      0.12036,
+      "\u001b[31m  - connection failed with -tls1_1:ECDHE-ECDSA-AES256-SHA \u001b(B\u001b[m"
+    ],
+    [
+      7.9e-05,
+      "\r\n"
+    ],
+    [
+      0.073995,
+      "\u001b[31m  - connection failed with -tls1_1:SRP-DSS-AES-256-CBC-SHA \u001b(B\u001b[m"
+    ],
+    [
+      0.000153,
+      "\r\n"
+    ],
+    [
+      0.072976,
+      "\u001b[31m  - connection failed with -tls1_1:SRP-RSA-AES-256-CBC-SHA \u001b(B\u001b[m"
+    ],
+    [
+      8.2e-05,
+      "\r\n"
+    ],
+    [
+      0.065029,
+      "\u001b[31m  - connection failed with -tls1_1:SRP-AES-256-CBC-SHA \u001b(B\u001b[m"
+    ],
+    [
+      6.8e-05,
+      "\r\n"
+    ],
+    [
+      0.066888,
+      "\u001b[31m  - connection failed with -tls1_1:DHE-DSS-AES256-GCM-SHA384 \u001b(B\u001b[m"
+    ],
+    [
+      6.9e-05,
+      "\r\n"
+    ],
+    [
+      0.068359,
+      "\u001b[31m  - connection failed with -tls1_1:DHE-RSA-AES256-GCM-SHA384 \u001b(B\u001b[m"
+    ],
+    [
+      8.7e-05,
+      "\r\n"
+    ],
+    [
+      0.069285,
+      "\u001b[31m  - connection failed with -tls1_1:DHE-RSA-AES256-SHA256 \u001b(B\u001b[m"
+    ],
+    [
+      0.000106,
+      "\r\n"
+    ],
+    [
+      0.065866,
+      "\u001b[31m  - connection failed with -tls1_1:DHE-DSS-AES256-SHA256 \u001b(B\u001b[m"
+    ],
+    [
+      8e-05,
+      "\r\n"
+    ],
+    [
+      0.090684,
+      "\u001b[31m  - connection failed with -tls1_1:DHE-RSA-AES256-SHA \u001b(B\u001b[m"
+    ],
+    [
+      8e-05,
+      "\r\n"
+    ],
+    [
+      0.091435,
+      "\u001b[31m  - connection failed with -tls1_1:DHE-DSS-AES256-SHA \u001b(B\u001b[m"
+    ],
+    [
+      8.1e-05,
+      "\r\n"
+    ],
+    [
+      0.09569,
+      "\u001b[31m  - connection failed with -tls1_1:DHE-RSA-CAMELLIA256-SHA \u001b(B\u001b[m"
+    ],
+    [
+      8e-05,
+      "\r\n"
+    ],
+    [
+      0.161965,
+      "\u001b[31m  - connection failed with -tls1_1:DHE-DSS-CAMELLIA256-SHA \u001b(B\u001b[m"
+    ],
+    [
+      8.3e-05,
+      "\r\n"
+    ],
+    [
+      0.097874,
+      "\u001b[31m  - connection failed with -tls1_1:AECDH-AES256-SHA \u001b(B\u001b[m"
+    ],
+    [
+      0.000152,
+      "\r\n"
+    ],
+    [
+      0.128697,
+      "\u001b[31m  - connection failed with -tls1_1:ADH-AES256-GCM-SHA384 \u001b(B\u001b[m"
+    ],
+    [
+      8.4e-05,
+      "\r\n"
+    ],
+    [
+      0.149124,
+      "\u001b[31m  - connection failed with -tls1_1:ADH-AES256-SHA256 \u001b(B\u001b[m"
+    ],
+    [
+      9.8e-05,
+      "\r\n"
+    ],
+    [
+      0.188936,
+      "\u001b[31m  - connection failed with -tls1_1:ADH-AES256-SHA \u001b(B\u001b[m"
+    ],
+    [
+      3.6e-05,
+      "\r\n"
+    ],
+    [
+      0.100599,
+      "\u001b[31m  - connection failed with -tls1_1:ADH-CAMELLIA256-SHA \u001b(B\u001b[m"
+    ],
+    [
+      0.000177,
+      "\r\n"
+    ],
+    [
+      0.076634,
+      "\u001b[31m  - connection failed with -tls1_1:ECDH-RSA-AES256-GCM-SHA384 \u001b(B\u001b[m"
+    ],
+    [
+      8.5e-05,
+      "\r\n"
+    ],
+    [
+      0.079942,
+      "\u001b[31m  - connection failed with -tls1_1:ECDH-ECDSA-AES256-GCM-SHA384 \u001b(B\u001b[m"
+    ],
+    [
+      0.000105,
+      "\r\n"
+    ],
+    [
+      0.073143,
+      "\u001b[31m  - connection failed with -tls1_1:ECDH-RSA-AES256-SHA384 \u001b(B\u001b[m"
+    ],
+    [
+      0.000112,
+      "\r\n"
+    ],
+    [
+      0.066703,
+      "\u001b[31m  - connection failed with -tls1_1:ECDH-ECDSA-AES256-SHA384 \u001b(B\u001b[m"
+    ],
+    [
+      8e-05,
+      "\r\n"
+    ],
+    [
+      0.09311,
+      "\u001b[31m  - connection failed with -tls1_1:ECDH-RSA-AES256-SHA \u001b(B\u001b[m"
+    ],
+    [
+      0.000124,
+      "\r\n"
+    ],
+    [
+      0.090918,
+      "\u001b[31m  - connection failed with -tls1_1:ECDH-ECDSA-AES256-SHA \u001b(B\u001b[m"
+    ],
+    [
+      8.2e-05,
+      "\r\n"
+    ],
+    [
+      0.092259,
+      "\u001b[31m  - connection failed with -tls1_1:AES256-GCM-SHA384 \u001b(B\u001b[m"
+    ],
+    [
+      7.7e-05,
+      "\r\n"
+    ],
+    [
+      0.062617,
+      "\u001b[31m  - connection failed with -tls1_1:AES256-SHA256 \u001b(B\u001b[m"
+    ],
+    [
+      6.3e-05,
+      "\r\n"
+    ],
+    [
+      0.125665,
+      "\u001b[34m  - connection successful with -tls1_1:AES256-SHA"
+    ],
+    [
+      8.4e-05,
+      "\r\n"
+    ],
+    [
+      6.8e-05,
+      "\u001b[34m  - session master-key: 4768CCF9E933DCF7CBB70A04B6E439B7054014C08D9E1561E9DFC82CB61848B3F18D5C6D30005122101F8DC3626FF1FE \u001b(B\u001b[m"
+    ],
+    [
+      3.7e-05,
+      "\r\n"
+    ],
+    [
+      0.129132,
+      "\u001b[31m  - connection failed with -tls1_1:CAMELLIA256-SHA \u001b(B\u001b[m"
+    ],
+    [
+      8.4e-05,
+      "\r\n"
+    ],
+    [
+      0.071861,
+      "\u001b[31m  - connection failed with -tls1_1:PSK-AES256-CBC-SHA \u001b(B\u001b[m"
+    ],
+    [
+      8e-05,
+      "\r\n"
+    ],
+    [
+      0.117015,
+      "\u001b[31m  - connection failed with -tls1_1:ECDHE-RSA-DES-CBC3-SHA \u001b(B\u001b[m"
+    ],
+    [
+      8.3e-05,
+      "\r\n"
+    ],
+    [
+      0.099714,
+      "\u001b[31m  - connection failed with -tls1_1:ECDHE-ECDSA-DES-CBC3-SHA \u001b(B\u001b[m"
+    ],
+    [
+      8.3e-05,
+      "\r\n"
+    ],
+    [
+      0.070653,
+      "\u001b[31m  - connection failed with -tls1_1:SRP-DSS-3DES-EDE-CBC-SHA \u001b(B\u001b[m"
+    ],
+    [
+      8.4e-05,
+      "\r\n"
+    ],
+    [
+      0.069725,
+      "\u001b[31m  - connection failed with -tls1_1:SRP-RSA-3DES-EDE-CBC-SHA \u001b(B\u001b[m"
+    ],
+    [
+      7.8e-05,
+      "\r\n"
+    ],
+    [
+      0.063991,
+      "\u001b[31m  - connection failed with -tls1_1:SRP-3DES-EDE-CBC-SHA \u001b(B\u001b[m"
+    ],
+    [
+      8e-05,
+      "\r\n"
+    ],
+    [
+      0.096308,
+      "\u001b[31m  - connection failed with -tls1_1:EDH-RSA-DES-CBC3-SHA \u001b(B\u001b[m"
+    ],
+    [
+      8.2e-05,
+      "\r\n"
+    ],
+    [
+      0.100145,
+      "\u001b[31m  - connection failed with -tls1_1:EDH-DSS-DES-CBC3-SHA \u001b(B\u001b[m"
+    ],
+    [
+      0.000154,
+      "\r\n"
+    ],
+    [
+      0.128167,
+      "\u001b[31m  - connection failed with -tls1_1:AECDH-DES-CBC3-SHA \u001b(B\u001b[m"
+    ],
+    [
+      8.1e-05,
+      "\r\n"
+    ],
+    [
+      0.093094,
+      "\u001b[31m  - connection failed with -tls1_1:ADH-DES-CBC3-SHA \u001b(B\u001b[m"
+    ],
+    [
+      8e-05,
+      "\r\n"
+    ],
+    [
+      0.107147,
+      "\u001b[31m  - connection failed with -tls1_1:ECDH-RSA-DES-CBC3-SHA \u001b(B\u001b[m"
+    ],
+    [
+      0.000148,
+      "\r\n"
+    ],
+    [
+      0.115399,
+      "\u001b[31m  - connection failed with -tls1_1:ECDH-ECDSA-DES-CBC3-SHA \u001b(B\u001b[m"
+    ],
+    [
+      0.000241,
+      "\r\n"
+    ],
+    [
+      0.159064,
+      "\u001b[34m  - connection successful with -tls1_1:DES-CBC3-SHA"
+    ],
+    [
+      9.9e-05,
+      "\r\n"
+    ],
+    [
+      8.9e-05,
+      "\u001b[34m  - session master-key: 94746DFCB40580B28C795C0845FDDCCDCE689A59096780C4D362BFEC4E65E2965E5DA300DE0221F477C3A318455EECD5 \u001b(B\u001b[m"
+    ],
+    [
+      4.9e-05,
+      "\r\n"
+    ],
+    [
+      0.065758,
+      "\u001b[31m  - connection failed with -tls1_1:PSK-3DES-EDE-CBC-SHA \u001b(B\u001b[m"
+    ],
+    [
+      8.1e-05,
+      "\r\n"
+    ],
+    [
+      0.063387,
+      "\u001b[31m  - connection failed with -tls1_1:ECDHE-RSA-AES128-GCM-SHA256 \u001b(B\u001b[m"
+    ],
+    [
+      6.9e-05,
+      "\r\n"
+    ],
+    [
+      0.069445,
+      "\u001b[31m  - connection failed with -tls1_1:ECDHE-ECDSA-AES128-GCM-SHA256 \u001b(B\u001b[m"
+    ],
+    [
+      0.000122,
+      "\r\n"
+    ],
+    [
+      0.073644,
+      "\u001b[31m  - connection failed with -tls1_1:ECDHE-RSA-AES128-SHA256 \u001b(B\u001b[m"
+    ],
+    [
+      7.6e-05,
+      "\r\n"
+    ],
+    [
+      0.064928,
+      "\u001b[31m  - connection failed with -tls1_1:ECDHE-ECDSA-AES128-SHA256 \u001b(B\u001b[m"
+    ],
+    [
+      0.000204,
+      "\r\n"
+    ],
+    [
+      0.155793,
+      "\u001b[34m  - connection successful with -tls1_1:ECDHE-RSA-AES128-SHA"
+    ],
+    [
+      0.000321,
+      "\r\n"
+    ],
+    [
+      0.000143,
+      "\u001b[34m  - session master-key: D99F40AE07284EC893C5DEED768D9E54B4F04074F0DDDED2C6366C97B308393ED1AADA7DF3440D521E400797D8481373 \u001b(B\u001b[m"
+    ],
+    [
+      0.000185,
+      "\r\n"
+    ],
+    [
+      0.099086,
+      "\u001b[31m  - connection failed with -tls1_1:ECDHE-ECDSA-AES128-SHA \u001b(B\u001b[m"
+    ],
+    [
+      8.2e-05,
+      "\r\n"
+    ],
+    [
+      0.078505,
+      "\u001b[31m  - connection failed with -tls1_1:SRP-DSS-AES-128-CBC-SHA \u001b(B\u001b[m"
+    ],
+    [
+      0.000206,
+      "\r\n"
+    ],
+    [
+      0.084399,
+      "\u001b[31m  - connection failed with -tls1_1:SRP-RSA-AES-128-CBC-SHA \u001b(B\u001b[m"
+    ],
+    [
+      0.000123,
+      "\r\n"
+    ],
+    [
+      0.072991,
+      "\u001b[31m  - connection failed with -tls1_1:SRP-AES-128-CBC-SHA \u001b(B\u001b[m"
+    ],
+    [
+      8.3e-05,
+      "\r\n"
+    ],
+    [
+      0.06653,
+      "\u001b[31m  - connection failed with -tls1_1:DHE-DSS-AES128-GCM-SHA256 \u001b(B\u001b[m"
+    ],
+    [
+      8.2e-05,
+      "\r\n"
+    ],
+    [
+      0.066132,
+      "\u001b[31m  - connection failed with -tls1_1:DHE-RSA-AES128-GCM-SHA256 \u001b(B\u001b[m"
+    ],
+    [
+      0.000104,
+      "\r\n"
+    ],
+    [
+      0.07202,
+      "\u001b[31m  - connection failed with -tls1_1:DHE-RSA-AES128-SHA256 \u001b(B\u001b[m"
+    ],
+    [
+      0.000133,
+      "\r\n"
+    ],
+    [
+      0.08441,
+      "\u001b[31m  - connection failed with -tls1_1:DHE-DSS-AES128-SHA256 \u001b(B\u001b[m"
+    ],
+    [
+      0.000134,
+      "\r\n"
+    ],
+    [
+      0.117507,
+      "\u001b[31m  - connection failed with -tls1_1:DHE-RSA-AES128-SHA \u001b(B\u001b[m"
+    ],
+    [
+      0.000142,
+      "\r\n"
+    ],
+    [
+      0.113059,
+      "\u001b[31m  - connection failed with -tls1_1:DHE-DSS-AES128-SHA \u001b(B\u001b[m"
+    ],
+    [
+      0.000219,
+      "\r\n"
+    ],
+    [
+      0.105516,
+      "\u001b[31m  - connection failed with -tls1_1:DHE-RSA-SEED-SHA \u001b(B\u001b[m"
+    ],
+    [
+      8.4e-05,
+      "\r\n"
+    ],
+    [
+      0.089203,
+      "\u001b[31m  - connection failed with -tls1_1:DHE-DSS-SEED-SHA \u001b(B\u001b[m"
+    ],
+    [
+      7.6e-05,
+      "\r\n"
+    ],
+    [
+      0.1022,
+      "\u001b[31m  - connection failed with -tls1_1:DHE-RSA-CAMELLIA128-SHA \u001b(B\u001b[m"
+    ],
+    [
+      7.9e-05,
+      "\r\n"
+    ],
+    [
+      0.101103,
+      "\u001b[31m  - connection failed with -tls1_1:DHE-DSS-CAMELLIA128-SHA \u001b(B\u001b[m"
+    ],
+    [
+      8.1e-05,
+      "\r\n"
+    ],
+    [
+      0.111484,
+      "\u001b[31m  - connection failed with -tls1_1:AECDH-AES128-SHA \u001b(B\u001b[m"
+    ],
+    [
+      8.1e-05,
+      "\r\n"
+    ],
+    [
+      0.076596,
+      "\u001b[31m  - connection failed with -tls1_1:ADH-AES128-GCM-SHA256 \u001b(B\u001b[m"
+    ],
+    [
+      0.000159,
+      "\r\n"
+    ],
+    [
+      0.073786,
+      "\u001b[31m  - connection failed with -tls1_1:ADH-AES128-SHA256 \u001b(B\u001b[m"
+    ],
+    [
+      8e-05,
+      "\r\n"
+    ],
+    [
+      0.109982,
+      "\u001b[31m  - connection failed with -tls1_1:ADH-AES128-SHA \u001b(B\u001b[m"
+    ],
+    [
+      8.1e-05,
+      "\r\n"
+    ],
+    [
+      0.089476,
+      "\u001b[31m  - connection failed with -tls1_1:ADH-SEED-SHA \u001b(B\u001b[m"
+    ],
+    [
+      8e-05,
+      "\r\n"
+    ],
+    [
+      0.090995,
+      "\u001b[31m  - connection failed with -tls1_1:ADH-CAMELLIA128-SHA \u001b(B\u001b[m"
+    ],
+    [
+      8.3e-05,
+      "\r\n"
+    ],
+    [
+      0.063957,
+      "\u001b[31m  - connection failed with -tls1_1:ECDH-RSA-AES128-GCM-SHA256 \u001b(B\u001b[m"
+    ],
+    [
+      0.000113,
+      "\r\n"
+    ],
+    [
+      0.069156,
+      "\u001b[31m  - connection failed with -tls1_1:ECDH-ECDSA-AES128-GCM-SHA256 \u001b(B\u001b[m"
+    ],
+    [
+      7.9e-05,
+      "\r\n"
+    ],
+    [
+      0.074653,
+      "\u001b[31m  - connection failed with -tls1_1:ECDH-RSA-AES128-SHA256 \u001b(B\u001b[m"
+    ],
+    [
+      0.000301,
+      "\r\n"
+    ],
+    [
+      0.079563,
+      "\u001b[31m  - connection failed with -tls1_1:ECDH-ECDSA-AES128-SHA256 \u001b(B\u001b[m"
+    ],
+    [
+      9.3e-05,
+      "\r\n"
+    ],
+    [
+      0.100161,
+      "\u001b[31m  - connection failed with -tls1_1:ECDH-RSA-AES128-SHA \u001b(B\u001b[m"
+    ],
+    [
+      7.7e-05,
+      "\r\n"
+    ],
+    [
+      0.090265,
+      "\u001b[31m  - connection failed with -tls1_1:ECDH-ECDSA-AES128-SHA \u001b(B\u001b[m"
+    ],
+    [
+      9e-05,
+      "\r\n"
+    ],
+    [
+      0.073247,
+      "\u001b[31m  - connection failed with -tls1_1:AES128-GCM-SHA256 \u001b(B\u001b[m"
+    ],
+    [
+      0.000149,
+      "\r\n"
+    ],
+    [
+      0.069371,
+      "\u001b[31m  - connection failed with -tls1_1:AES128-SHA256 \u001b(B\u001b[m"
+    ],
+    [
+      8e-05,
+      "\r\n"
+    ],
+    [
+      0.132631,
+      "\u001b[34m  - connection successful with -tls1_1:AES128-SHA"
+    ],
+    [
+      8.3e-05,
+      "\r\n"
+    ],
+    [
+      9.1e-05,
+      "\u001b[34m  - session master-key: B01F57970B9408313481A08C75EAF47C480B58772C0AC769ABAB08C460202FF301C9C5AFE2E88285746A473734E3F522 \u001b(B\u001b[m"
+    ],
+    [
+      3.8e-05,
+      "\r\n"
+    ],
+    [
+      0.099995,
+      "\u001b[31m  - connection failed with -tls1_1:SEED-SHA \u001b(B\u001b[m"
+    ],
+    [
+      9.8e-05,
+      "\r\n"
+    ],
+    [
+      0.113393,
+      "\u001b[31m  - connection failed with -tls1_1:CAMELLIA128-SHA \u001b(B\u001b[m"
+    ],
+    [
+      0.0001,
+      "\r\n"
+    ],
+    [
+      0.075704,
+      "\u001b[31m  - connection failed with -tls1_1:PSK-AES128-CBC-SHA \u001b(B\u001b[m"
+    ],
+    [
+      8.2e-05,
+      "\r\n"
+    ],
+    [
+      0.09085,
+      "\u001b[31m  - connection failed with -tls1_1:ECDHE-RSA-RC4-SHA \u001b(B\u001b[m"
+    ],
+    [
+      8.1e-05,
+      "\r\n"
+    ],
+    [
+      0.11566,
+      "\u001b[31m  - connection failed with -tls1_1:ECDHE-ECDSA-RC4-SHA \u001b(B\u001b[m"
+    ],
+    [
+      0.000324,
+      "\r\n"
+    ],
+    [
+      0.115238,
+      "\u001b[31m  - connection failed with -tls1_1:AECDH-RC4-SHA \u001b(B\u001b[m"
+    ],
+    [
+      0.000248,
+      "\r\n"
+    ],
+    [
+      0.127022,
+      "\u001b[31m  - connection failed with -tls1_1:ADH-RC4-MD5 \u001b(B\u001b[m"
+    ],
+    [
+      0.000152,
+      "\r\n"
+    ],
+    [
+      0.109424,
+      "\u001b[31m  - connection failed with -tls1_1:ECDH-RSA-RC4-SHA \u001b(B\u001b[m"
+    ],
+    [
+      0.000149,
+      "\r\n"
+    ],
+    [
+      0.117968,
+      "\u001b[31m  - connection failed with -tls1_1:ECDH-ECDSA-RC4-SHA \u001b(B\u001b[m"
+    ],
+    [
+      0.000154,
+      "\r\n"
+    ],
+    [
+      0.109481,
+      "\u001b[31m  - connection failed with -tls1_1:RC4-SHA \u001b(B\u001b[m"
+    ],
+    [
+      0.000151,
+      "\r\n"
+    ],
+    [
+      0.114471,
+      "\u001b[31m  - connection failed with -tls1_1:RC4-MD5 \u001b(B\u001b[m"
+    ],
+    [
+      0.00016,
+      "\r\n"
+    ],
+    [
+      0.102766,
+      "\u001b[31m  - connection failed with -tls1_1:PSK-RC4-SHA \u001b(B\u001b[m"
+    ],
+    [
+      8.2e-05,
+      "\r\n"
+    ],
+    [
+      0.098663,
+      "\u001b[31m  - connection failed with -tls1_1:EDH-RSA-DES-CBC-SHA \u001b(B\u001b[m"
+    ],
+    [
+      0.000114,
+      "\r\n"
+    ],
+    [
+      0.097787,
+      "\u001b[31m  - connection failed with -tls1_1:EDH-DSS-DES-CBC-SHA \u001b(B\u001b[m"
+    ],
+    [
+      7.9e-05,
+      "\r\n"
+    ],
+    [
+      0.11162,
+      "\u001b[31m  - connection failed with -tls1_1:ADH-DES-CBC-SHA \u001b(B\u001b[m"
+    ],
+    [
+      0.000153,
+      "\r\n"
+    ],
+    [
+      0.11929,
+      "\u001b[31m  - connection failed with -tls1_1:DES-CBC-SHA \u001b(B\u001b[m"
+    ],
+    [
+      8.1e-05,
+      "\r\n"
+    ],
+    [
+      0.096899,
+      "\u001b[31m  - connection failed with -tls1_1:EXP-EDH-RSA-DES-CBC-SHA \u001b(B\u001b[m"
+    ],
+    [
+      7.9e-05,
+      "\r\n"
+    ],
+    [
+      0.090037,
+      "\u001b[31m  - connection failed with -tls1_1:EXP-EDH-DSS-DES-CBC-SHA \u001b(B\u001b[m"
+    ],
+    [
+      8.1e-05,
+      "\r\n"
+    ],
+    [
+      0.090772,
+      "\u001b[31m  - connection failed with -tls1_1:EXP-ADH-DES-CBC-SHA \u001b(B\u001b[m"
+    ],
+    [
+      9.2e-05,
+      "\r\n"
+    ],
+    [
+      0.091161,
+      "\u001b[31m  - connection failed with -tls1_1:EXP-DES-CBC-SHA \u001b(B\u001b[m"
+    ],
+    [
+      8.2e-05,
+      "\r\n"
+    ],
+    [
+      0.105234,
+      "\u001b[31m  - connection failed with -tls1_1:EXP-RC2-CBC-MD5 \u001b(B\u001b[m"
+    ],
+    [
+      8.4e-05,
+      "\r\n"
+    ],
+    [
+      0.094316,
+      "\u001b[31m  - connection failed with -tls1_1:EXP-ADH-RC4-MD5 \u001b(B\u001b[m"
+    ],
+    [
+      8.1e-05,
+      "\r\n"
+    ],
+    [
+      0.091357,
+      "\u001b[31m  - connection failed with -tls1_1:EXP-RC4-MD5 \u001b(B\u001b[m"
+    ],
+    [
+      8.3e-05,
+      "\r\n"
+    ],
+    [
+      0.124289,
+      "\u001b[31m  - connection failed with -tls1_1:ECDHE-RSA-NULL-SHA \u001b(B\u001b[m"
+    ],
+    [
+      0.000309,
+      "\r\n"
+    ],
+    [
+      0.200176,
+      "\u001b[31m  - connection failed with -tls1_1:ECDHE-ECDSA-NULL-SHA \u001b(B\u001b[m"
+    ],
+    [
+      1e-06,
+      "\r\n"
+    ],
+    [
+      0.155502,
+      "\u001b[31m  - connection failed with -tls1_1:AECDH-NULL-SHA \u001b(B\u001b[m"
+    ],
+    [
+      8.3e-05,
+      "\r\n"
+    ],
+    [
+      0.098094,
+      "\u001b[31m  - connection failed with -tls1_1:ECDH-RSA-NULL-SHA \u001b(B\u001b[m"
+    ],
+    [
+      0.000113,
+      "\r\n"
+    ],
+    [
+      0.105904,
+      "\u001b[31m  - connection failed with -tls1_1:ECDH-ECDSA-NULL-SHA \u001b(B\u001b[m"
+    ],
+    [
+      0.000886,
+      "\r\n"
+    ],
+    [
+      0.085549,
+      "\u001b[31m  - connection failed with -tls1_1:NULL-SHA256 \u001b(B\u001b[m"
+    ],
+    [
+      0.000147,
+      "\r\n"
+    ],
+    [
+      0.093645,
+      "\u001b[31m  - connection failed with -tls1_1:NULL-SHA \u001b(B\u001b[m"
+    ],
+    [
+      3.7e-05,
+      "\r\n"
+    ],
+    [
+      0.092913,
+      "\u001b[31m  - connection failed with -tls1_1:NULL-MD5 \u001b(B\u001b[m"
+    ],
+    [
+      7.7e-05,
+      "\r\n"
+    ],
+    [
+      0.075066,
+      "\u001b[31m  - connection failed with -tls1:ECDHE-RSA-AES256-GCM-SHA384 \u001b(B\u001b[m"
+    ],
+    [
+      8.3e-05,
+      "\r\n"
+    ],
+    [
+      0.06552,
+      "\u001b[31m  - connection failed with -tls1:ECDHE-ECDSA-AES256-GCM-SHA384 \u001b(B\u001b[m"
+    ],
+    [
+      8.4e-05,
+      "\r\n"
+    ],
+    [
+      0.073316,
+      "\u001b[31m  - connection failed with -tls1:ECDHE-RSA-AES256-SHA384 \u001b(B\u001b[m"
+    ],
+    [
+      8.7e-05,
+      "\r\n"
+    ],
+    [
+      0.061897,
+      "\u001b[31m  - connection failed with -tls1:ECDHE-ECDSA-AES256-SHA384 \u001b(B\u001b[m"
+    ],
+    [
+      7.6e-05,
+      "\r\n"
+    ],
+    [
+      0.132598,
+      "\u001b[34m  - connection successful with -tls1:ECDHE-RSA-AES256-SHA"
+    ],
+    [
+      8.2e-05,
+      "\r\n"
+    ],
+    [
+      6.8e-05,
+      "\u001b[34m  - session master-key: EAC61272E4766BA64B35077152CCC86FACA0F0FBB12F3B835CFCCB55BC6D6BB036CF262F8C0FA04AB95277A709A5BB6B \u001b(B\u001b[m"
+    ],
+    [
+      3.7e-05,
+      "\r\n"
+    ],
+    [
+      0.096775,
+      "\u001b[31m  - connection failed with -tls1:ECDHE-ECDSA-AES256-SHA \u001b(B\u001b[m"
+    ],
+    [
+      8.8e-05,
+      "\r\n"
+    ],
+    [
+      0.097518,
+      "\u001b[31m  - connection failed with -tls1:SRP-DSS-AES-256-CBC-SHA \u001b(B\u001b[m"
+    ],
+    [
+      8.2e-05,
+      "\r\n"
+    ],
+    [
+      0.068488,
+      "\u001b[31m  - connection failed with -tls1:SRP-RSA-AES-256-CBC-SHA \u001b(B\u001b[m"
+    ],
+    [
+      7.4e-05,
+      "\r\n"
+    ],
+    [
+      0.081829,
+      "\u001b[31m  - connection failed with -tls1:SRP-AES-256-CBC-SHA \u001b(B\u001b[m"
+    ],
+    [
+      0.00013,
+      "\r\n"
+    ],
+    [
+      0.083454,
+      "\u001b[31m  - connection failed with -tls1:DHE-DSS-AES256-GCM-SHA384 \u001b(B\u001b[m"
+    ],
+    [
+      0.000197,
+      "\r\n"
+    ],
+    [
+      0.083513,
+      "\u001b[31m  - connection failed with -tls1:DHE-RSA-AES256-GCM-SHA384 \u001b(B\u001b[m"
+    ],
+    [
+      0.000208,
+      "\r\n"
+    ],
+    [
+      0.082264,
+      "\u001b[31m  - connection failed with -tls1:DHE-RSA-AES256-SHA256 \u001b(B\u001b[m"
+    ],
+    [
+      7.7e-05,
+      "\r\n"
+    ],
+    [
+      0.072956,
+      "\u001b[31m  - connection failed with -tls1:DHE-DSS-AES256-SHA256 \u001b(B\u001b[m"
+    ],
+    [
+      8e-05,
+      "\r\n"
+    ],
+    [
+      0.099082,
+      "\u001b[31m  - connection failed with -tls1:DHE-RSA-AES256-SHA \u001b(B\u001b[m"
+    ],
+    [
+      0.000157,
+      "\r\n"
+    ],
+    [
+      0.09885,
+      "\u001b[31m  - connection failed with -tls1:DHE-DSS-AES256-SHA \u001b(B\u001b[m"
+    ],
+    [
+      8.3e-05,
+      "\r\n"
+    ],
+    [
+      0.103212,
+      "\u001b[31m  - connection failed with -tls1:DHE-RSA-CAMELLIA256-SHA \u001b(B\u001b[m"
+    ],
+    [
+      0.000208,
+      "\r\n"
+    ],
+    [
+      0.099889,
+      "\u001b[31m  - connection failed with -tls1:DHE-DSS-CAMELLIA256-SHA \u001b(B\u001b[m"
+    ],
+    [
+      9e-05,
+      "\r\n"
+    ],
+    [
+      0.149423,
+      "\u001b[31m  - connection failed with -tls1:AECDH-AES256-SHA \u001b(B\u001b[m"
+    ],
+    [
+      0.00013,
+      "\r\n"
+    ],
+    [
+      0.075202,
+      "\u001b[31m  - connection failed with -tls1:ADH-AES256-GCM-SHA384 \u001b(B\u001b[m"
+    ],
+    [
+      8e-05,
+      "\r\n"
+    ],
+    [
+      0.070225,
+      "\u001b[31m  - connection failed with -tls1:ADH-AES256-SHA256 \u001b(B\u001b[m"
+    ],
+    [
+      8.4e-05,
+      "\r\n"
+    ],
+    [
+      0.097869,
+      "\u001b[31m  - connection failed with -tls1:ADH-AES256-SHA \u001b(B\u001b[m"
+    ],
+    [
+      0.000246,
+      "\r\n"
+    ],
+    [
+      0.123866,
+      "\u001b[31m  - connection failed with -tls1:ADH-CAMELLIA256-SHA \u001b(B\u001b[m"
+    ],
+    [
+      0.000218,
+      "\r\n"
+    ],
+    [
+      0.082546,
+      "\u001b[31m  - connection failed with -tls1:ECDH-RSA-AES256-GCM-SHA384 \u001b(B\u001b[m"
+    ],
+    [
+      0.000157,
+      "\r\n"
+    ],
+    [
+      0.071743,
+      "\u001b[31m  - connection failed with -tls1:ECDH-ECDSA-AES256-GCM-SHA384 \u001b(B\u001b[m"
+    ],
+    [
+      8e-05,
+      "\r\n"
+    ],
+    [
+      0.073474,
+      "\u001b[31m  - connection failed with -tls1:ECDH-RSA-AES256-SHA384 \u001b(B\u001b[m"
+    ],
+    [
+      8.2e-05,
+      "\r\n"
+    ],
+    [
+      0.063267,
+      "\u001b[31m  - connection failed with -tls1:ECDH-ECDSA-AES256-SHA384 \u001b(B\u001b[m"
+    ],
+    [
+      7.4e-05,
+      "\r\n"
+    ],
+    [
+      0.098402,
+      "\u001b[31m  - connection failed with -tls1:ECDH-RSA-AES256-SHA \u001b(B\u001b[m"
+    ],
+    [
+      7.5e-05,
+      "\r\n"
+    ],
+    [
+      0.143973,
+      "\u001b[31m  - connection failed with -tls1:ECDH-ECDSA-AES256-SHA \u001b(B\u001b[m"
+    ],
+    [
+      0.000101,
+      "\r\n"
+    ],
+    [
+      0.075068,
+      "\u001b[31m  - connection failed with -tls1:AES256-GCM-SHA384 \u001b(B\u001b[m"
+    ],
+    [
+      8.1e-05,
+      "\r\n"
+    ],
+    [
+      0.063449,
+      "\u001b[31m  - connection failed with -tls1:AES256-SHA256 \u001b(B\u001b[m"
+    ],
+    [
+      7.4e-05,
+      "\r\n"
+    ],
+    [
+      0.186502,
+      "\u001b[34m  - connection successful with -tls1:AES256-SHA"
+    ],
+    [
+      8e-05,
+      "\r\n"
+    ],
+    [
+      9.5e-05,
+      "\u001b[34m  - session master-key: 13F9289A943B9D92DF0A10F46F227101C1384C2D013D18F75DD41013550190C2A96DA35CFAA4326E2A2700AAFC87B1DE \u001b(B\u001b[m"
+    ],
+    [
+      4.4e-05,
+      "\r\n"
+    ],
+    [
+      0.099234,
+      "\u001b[31m  - connection failed with -tls1:CAMELLIA256-SHA \u001b(B\u001b[m"
+    ],
+    [
+      7.9e-05,
+      "\r\n"
+    ],
+    [
+      0.0745,
+      "\u001b[31m  - connection failed with -tls1:PSK-AES256-CBC-SHA \u001b(B\u001b[m"
+    ],
+    [
+      9.4e-05,
+      "\r\n"
+    ],
+    [
+      0.120822,
+      "\u001b[31m  - connection failed with -tls1:ECDHE-RSA-DES-CBC3-SHA \u001b(B\u001b[m"
+    ],
+    [
+      8.2e-05,
+      "\r\n"
+    ],
+    [
+      0.09358,
+      "\u001b[31m  - connection failed with -tls1:ECDHE-ECDSA-DES-CBC3-SHA \u001b(B\u001b[m"
+    ],
+    [
+      0.0001,
+      "\r\n"
+    ],
+    [
+      0.068838,
+      "\u001b[31m  - connection failed with -tls1:SRP-DSS-3DES-EDE-CBC-SHA \u001b(B\u001b[m"
+    ],
+    [
+      8.4e-05,
+      "\r\n"
+    ],
+    [
+      0.071211,
+      "\u001b[31m  - connection failed with -tls1:SRP-RSA-3DES-EDE-CBC-SHA \u001b(B\u001b[m"
+    ],
+    [
+      0.000148,
+      "\r\n"
+    ],
+    [
+      0.076513,
+      "\u001b[31m  - connection failed with -tls1:SRP-3DES-EDE-CBC-SHA \u001b(B\u001b[m"
+    ],
+    [
+      9.7e-05,
+      "\r\n"
+    ],
+    [
+      0.093367,
+      "\u001b[31m  - connection failed with -tls1:EDH-RSA-DES-CBC3-SHA \u001b(B\u001b[m"
+    ],
+    [
+      9.6e-05,
+      "\r\n"
+    ],
+    [
+      0.09681,
+      "\u001b[31m  - connection failed with -tls1:EDH-DSS-DES-CBC3-SHA \u001b(B\u001b[m"
+    ],
+    [
+      8.2e-05,
+      "\r\n"
+    ],
+    [
+      0.103311,
+      "\u001b[31m  - connection failed with -tls1:AECDH-DES-CBC3-SHA \u001b(B\u001b[m"
+    ],
+    [
+      0.000134,
+      "\r\n"
+    ],
+    [
+      0.102861,
+      "\u001b[31m  - connection failed with -tls1:ADH-DES-CBC3-SHA \u001b(B\u001b[m"
+    ],
+    [
+      0.000106,
+      "\r\n"
+    ],
+    [
+      0.098645,
+      "\u001b[31m  - connection failed with -tls1:ECDH-RSA-DES-CBC3-SHA \u001b(B\u001b[m"
+    ],
+    [
+      0.000139,
+      "\r\n"
+    ],
+    [
+      0.115469,
+      "\u001b[31m  - connection failed with -tls1:ECDH-ECDSA-DES-CBC3-SHA \u001b(B\u001b[m"
+    ],
+    [
+      0.000246,
+      "\r\n"
+    ],
+    [
+      0.152577,
+      "\u001b[34m  - connection successful with -tls1:DES-CBC3-SHA"
+    ],
+    [
+      8.1e-05,
+      "\r\n"
+    ],
+    [
+      0.000117,
+      "\u001b[34m  - session master-key: 33442A8A1E438DEA2B2E5ABC2A0F345C36F49540C17A72F58344DCBEA41D25AF3B2CA9004CE388C5855D3C43397563E5 \u001b(B\u001b[m"
+    ],
+    [
+      3.6e-05,
+      "\r\n"
+    ],
+    [
+      0.069455,
+      "\u001b[31m  - connection failed with -tls1:PSK-3DES-EDE-CBC-SHA \u001b(B\u001b[m"
+    ],
+    [
+      8.2e-05,
+      "\r\n"
+    ],
+    [
+      0.06486,
+      "\u001b[31m  - connection failed with -tls1:ECDHE-RSA-AES128-GCM-SHA256 \u001b(B\u001b[m"
+    ],
+    [
+      9e-05,
+      "\r\n"
+    ],
+    [
+      0.062204,
+      "\u001b[31m  - connection failed with -tls1:ECDHE-ECDSA-AES128-GCM-SHA256 \u001b(B\u001b[m"
+    ],
+    [
+      6.1e-05,
+      "\r\n"
+    ],
+    [
+      0.065854,
+      "\u001b[31m  - connection failed with -tls1:ECDHE-RSA-AES128-SHA256 \u001b(B\u001b[m"
+    ],
+    [
+      0.000694,
+      "\r\n"
+    ],
+    [
+      0.062968,
+      "\u001b[31m  - connection failed with -tls1:ECDHE-ECDSA-AES128-SHA256 \u001b(B\u001b[m"
+    ],
+    [
+      7.5e-05,
+      "\r\n"
+    ],
+    [
+      0.159272,
+      "\u001b[34m  - connection successful with -tls1:ECDHE-RSA-AES128-SHA"
+    ],
+    [
+      7.9e-05,
+      "\r\n"
+    ],
+    [
+      6.6e-05,
+      "\u001b[34m  - session master-key: DCEF04A31EA959A5FFA72FDBC8B47CF4F1E531304AA22BAF51289A01F0610D51A08D15B3D9CAAEA53BC89A181AA6808A \u001b(B\u001b[m"
+    ],
+    [
+      3.6e-05,
+      "\r\n"
+    ],
+    [
+      0.094878,
+      "\u001b[31m  - connection failed with -tls1:ECDHE-ECDSA-AES128-SHA \u001b(B\u001b[m"
+    ],
+    [
+      8.3e-05,
+      "\r\n"
+    ],
+    [
+      0.075865,
+      "\u001b[31m  - connection failed with -tls1:SRP-DSS-AES-128-CBC-SHA \u001b(B\u001b[m"
+    ],
+    [
+      0.000204,
+      "\r\n"
+    ],
+    [
+      0.081527,
+      "\u001b[31m  - connection failed with -tls1:SRP-RSA-AES-128-CBC-SHA \u001b(B\u001b[m"
+    ],
+    [
+      0.000104,
+      "\r\n"
+    ],
+    [
+      0.100774,
+      "\u001b[31m  - connection failed with -tls1:SRP-AES-128-CBC-SHA \u001b(B\u001b[m"
+    ],
+    [
+      8.3e-05,
+      "\r\n"
+    ],
+    [
+      0.071589,
+      "\u001b[31m  - connection failed with -tls1:DHE-DSS-AES128-GCM-SHA256 \u001b(B\u001b[m"
+    ],
+    [
+      0.000101,
+      "\r\n"
+    ],
+    [
+      0.080268,
+      "\u001b[31m  - connection failed with -tls1:DHE-RSA-AES128-GCM-SHA256 \u001b(B\u001b[m"
+    ],
+    [
+      8.2e-05,
+      "\r\n"
+    ],
+    [
+      0.064188,
+      "\u001b[31m  - connection failed with -tls1:DHE-RSA-AES128-SHA256 \u001b(B\u001b[m"
+    ],
+    [
+      8.6e-05,
+      "\r\n"
+    ],
+    [
+      0.064109,
+      "\u001b[31m  - connection failed with -tls1:DHE-DSS-AES128-SHA256 \u001b(B\u001b[m"
+    ],
+    [
+      8e-05,
+      "\r\n"
+    ],
+    [
+      0.162261,
+      "\u001b[31m  - connection failed with -tls1:DHE-RSA-AES128-SHA \u001b(B\u001b[m"
+    ],
+    [
+      0.000132,
+      "\r\n"
+    ],
+    [
+      0.105528,
+      "\u001b[31m  - connection failed with -tls1:DHE-DSS-AES128-SHA \u001b(B\u001b[m"
+    ],
+    [
+      8.2e-05,
+      "\r\n"
+    ],
+    [
+      0.090838,
+      "\u001b[31m  - connection failed with -tls1:DHE-RSA-SEED-SHA \u001b(B\u001b[m"
+    ],
+    [
+      9.8e-05,
+      "\r\n"
+    ],
+    [
+      0.117223,
+      "\u001b[31m  - connection failed with -tls1:DHE-DSS-SEED-SHA \u001b(B\u001b[m"
+    ],
+    [
+      0.000196,
+      "\r\n"
+    ],
+    [
+      0.13897,
+      "\u001b[31m  - connection failed with -tls1:DHE-RSA-CAMELLIA128-SHA \u001b(B\u001b[m"
+    ],
+    [
+      0.000251,
+      "\r\n"
+    ],
+    [
+      0.13519,
+      "\u001b[31m  - connection failed with -tls1:DHE-DSS-CAMELLIA128-SHA \u001b(B\u001b[m"
+    ],
+    [
+      0.000179,
+      "\r\n"
+    ],
+    [
+      0.119236,
+      "\u001b[31m  - connection failed with -tls1:AECDH-AES128-SHA \u001b(B\u001b[m"
+    ],
+    [
+      9.9e-05,
+      "\r\n"
+    ],
+    [
+      0.064131,
+      "\u001b[31m  - connection failed with -tls1:ADH-AES128-GCM-SHA256 \u001b(B\u001b[m"
+    ],
+    [
+      0.000115,
+      "\r\n"
+    ],
+    [
+      0.076621,
+      "\u001b[31m  - connection failed with -tls1:ADH-AES128-SHA256 \u001b(B\u001b[m"
+    ],
+    [
+      0.0002,
+      "\r\n"
+    ],
+    [
+      0.138469,
+      "\u001b[31m  - connection failed with -tls1:ADH-AES128-SHA \u001b(B\u001b[m"
+    ],
+    [
+      0.000243,
+      "\r\n"
+    ],
+    [
+      0.120088,
+      "\u001b[31m  - connection failed with -tls1:ADH-SEED-SHA \u001b(B\u001b[m"
+    ],
+    [
+      0.000245,
+      "\r\n"
+    ],
+    [
+      0.112549,
+      "\u001b[31m  - connection failed with -tls1:ADH-CAMELLIA128-SHA \u001b(B\u001b[m"
+    ],
+    [
+      0.000138,
+      "\r\n"
+    ],
+    [
+      0.080057,
+      "\u001b[31m  - connection failed with -tls1:ECDH-RSA-AES128-GCM-SHA256 \u001b(B\u001b[m"
+    ],
+    [
+      8.5e-05,
+      "\r\n"
+    ],
+    [
+      0.065293,
+      "\u001b[31m  - connection failed with -tls1:ECDH-ECDSA-AES128-GCM-SHA256 \u001b(B\u001b[m"
+    ],
+    [
+      8e-05,
+      "\r\n"
+    ],
+    [
+      0.070452,
+      "\u001b[31m  - connection failed with -tls1:ECDH-RSA-AES128-SHA256 \u001b(B\u001b[m"
+    ],
+    [
+      9.9e-05,
+      "\r\n"
+    ],
+    [
+      0.062951,
+      "\u001b[31m  - connection failed with -tls1:ECDH-ECDSA-AES128-SHA256 \u001b(B\u001b[m"
+    ],
+    [
+      6.9e-05,
+      "\r\n"
+    ],
+    [
+      0.094484,
+      "\u001b[31m  - connection failed with -tls1:ECDH-RSA-AES128-SHA \u001b(B\u001b[m"
+    ],
+    [
+      8.2e-05,
+      "\r\n"
+    ],
+    [
+      0.102409,
+      "\u001b[31m  - connection failed with -tls1:ECDH-ECDSA-AES128-SHA \u001b(B\u001b[m"
+    ],
+    [
+      9.6e-05,
+      "\r\n"
+    ],
+    [
+      0.068508,
+      "\u001b[31m  - connection failed with -tls1:AES128-GCM-SHA256 \u001b(B\u001b[m"
+    ],
+    [
+      9.5e-05,
+      "\r\n"
+    ],
+    [
+      0.070713,
+      "\u001b[31m  - connection failed with -tls1:AES128-SHA256 \u001b(B\u001b[m"
+    ],
+    [
+      0.000118,
+      "\r\n"
+    ],
+    [
+      0.170288,
+      "\u001b[34m  - connection successful with -tls1:AES128-SHA"
+    ],
+    [
+      8.2e-05,
+      "\r\n"
+    ],
+    [
+      0.000123,
+      "\u001b[34m  - session master-key: 9A47ADE5D1433F19B5337103926EBF47463170A324717BE765A1A8C324A73C1F6EC9E4700505E57C88DBA54726CDE70D \u001b(B\u001b[m"
+    ],
+    [
+      4.2e-05,
+      "\r\n"
+    ],
+    [
+      0.103302,
+      "\u001b[31m  - connection failed with -tls1:SEED-SHA \u001b(B\u001b[m"
+    ],
+    [
+      8.2e-05,
+      "\r\n"
+    ],
+    [
+      0.102519,
+      "\u001b[31m  - connection failed with -tls1:CAMELLIA128-SHA \u001b(B\u001b[m"
+    ],
+    [
+      8.5e-05,
+      "\r\n"
+    ],
+    [
+      0.064272,
+      "\u001b[31m  - connection failed with -tls1:PSK-AES128-CBC-SHA \u001b(B\u001b[m"
+    ],
+    [
+      8e-05,
+      "\r\n"
+    ],
+    [
+      0.09232,
+      "\u001b[31m  - connection failed with -tls1:ECDHE-RSA-RC4-SHA \u001b(B\u001b[m"
+    ],
+    [
+      8.4e-05,
+      "\r\n"
+    ],
+    [
+      0.094807,
+      "\u001b[31m  - connection failed with -tls1:ECDHE-ECDSA-RC4-SHA \u001b(B\u001b[m"
+    ],
+    [
+      8.3e-05,
+      "\r\n"
+    ],
+    [
+      0.09293,
+      "\u001b[31m  - connection failed with -tls1:AECDH-RC4-SHA \u001b(B\u001b[m"
+    ],
+    [
+      8.1e-05,
+      "\r\n"
+    ],
+    [
+      0.101963,
+      "\u001b[31m  - connection failed with -tls1:ADH-RC4-MD5 \u001b(B\u001b[m"
+    ],
+    [
+      0.000114,
+      "\r\n"
+    ],
+    [
+      0.097989,
+      "\u001b[31m  - connection failed with -tls1:ECDH-RSA-RC4-SHA \u001b(B\u001b[m"
+    ],
+    [
+      8.1e-05,
+      "\r\n"
+    ],
+    [
+      0.1098,
+      "\u001b[31m  - connection failed with -tls1:ECDH-ECDSA-RC4-SHA \u001b(B\u001b[m"
+    ],
+    [
+      0.000167,
+      "\r\n"
+    ],
+    [
+      0.133294,
+      "\u001b[31m  - connection failed with -tls1:RC4-SHA \u001b(B\u001b[m"
+    ],
+    [
+      0.000208,
+      "\r\n"
+    ],
+    [
+      0.107624,
+      "\u001b[31m  - connection failed with -tls1:RC4-MD5 \u001b(B\u001b[m"
+    ],
+    [
+      9.9e-05,
+      "\r\n"
+    ],
+    [
+      0.068367,
+      "\u001b[31m  - connection failed with -tls1:PSK-RC4-SHA \u001b(B\u001b[m"
+    ],
+    [
+      8.2e-05,
+      "\r\n"
+    ],
+    [
+      0.108548,
+      "\u001b[31m  - connection failed with -tls1:EDH-RSA-DES-CBC-SHA \u001b(B\u001b[m"
+    ],
+    [
+      8.3e-05,
+      "\r\n"
+    ],
+    [
+      0.095864,
+      "\u001b[31m  - connection failed with -tls1:EDH-DSS-DES-CBC-SHA \u001b(B\u001b[m"
+    ],
+    [
+      8.2e-05,
+      "\r\n"
+    ],
+    [
+      0.090876,
+      "\u001b[31m  - connection failed with -tls1:ADH-DES-CBC-SHA \u001b(B\u001b[m"
+    ],
+    [
+      7.7e-05,
+      "\r\n"
+    ],
+    [
+      0.126334,
+      "\u001b[31m  - connection failed with -tls1:DES-CBC-SHA \u001b(B\u001b[m"
+    ],
+    [
+      0.000241,
+      "\r\n"
+    ],
+    [
+      0.122502,
+      "\u001b[31m  - connection failed with -tls1:EXP-EDH-RSA-DES-CBC-SHA \u001b(B\u001b[m"
+    ],
+    [
+      0.000326,
+      "\r\n"
+    ],
+    [
+      0.112147,
+      "\u001b[31m  - connection failed with -tls1:EXP-EDH-DSS-DES-CBC-SHA \u001b(B\u001b[m"
+    ],
+    [
+      8e-05,
+      "\r\n"
+    ],
+    [
+      0.097411,
+      "\u001b[31m  - connection failed with -tls1:EXP-ADH-DES-CBC-SHA \u001b(B\u001b[m"
+    ],
+    [
+      8.2e-05,
+      "\r\n"
+    ],
+    [
+      0.089808,
+      "\u001b[31m  - connection failed with -tls1:EXP-DES-CBC-SHA \u001b(B\u001b[m"
+    ],
+    [
+      8.2e-05,
+      "\r\n"
+    ],
+    [
+      0.100673,
+      "\u001b[31m  - connection failed with -tls1:EXP-RC2-CBC-MD5 \u001b(B\u001b[m"
+    ],
+    [
+      0.000266,
+      "\r\n"
+    ],
+    [
+      0.107842,
+      "\u001b[31m  - connection failed with -tls1:EXP-ADH-RC4-MD5 \u001b(B\u001b[m"
+    ],
+    [
+      0.000324,
+      "\r\n"
+    ],
+    [
+      0.178318,
+      "\u001b[31m  - connection failed with -tls1:EXP-RC4-MD5 \u001b(B\u001b[m"
+    ],
+    [
+      0.000156,
+      "\r\n"
+    ],
+    [
+      0.164972,
+      "\u001b[31m  - connection failed with -tls1:ECDHE-RSA-NULL-SHA \u001b(B\u001b[m"
+    ],
+    [
+      9.3e-05,
+      "\r\n"
+    ],
+    [
+      0.126852,
+      "\u001b[31m  - connection failed with -tls1:ECDHE-ECDSA-NULL-SHA \u001b(B\u001b[m"
+    ],
+    [
+      0.00011,
+      "\r\n"
+    ],
+    [
+      0.126271,
+      "\u001b[31m  - connection failed with -tls1:AECDH-NULL-SHA \u001b(B\u001b[m"
+    ],
+    [
+      8.3e-05,
+      "\r\n"
+    ],
+    [
+      0.123979,
+      "\u001b[31m  - connection failed with -tls1:ECDH-RSA-NULL-SHA \u001b(B\u001b[m"
+    ],
+    [
+      0.00026,
+      "\r\n"
+    ],
+    [
+      0.118726,
+      "\u001b[31m  - connection failed with -tls1:ECDH-ECDSA-NULL-SHA \u001b(B\u001b[m"
+    ],
+    [
+      0.000211,
+      "\r\n"
+    ],
+    [
+      0.081062,
+      "\u001b[31m  - connection failed with -tls1:NULL-SHA256 \u001b(B\u001b[m"
+    ],
+    [
+      0.000157,
+      "\r\n"
+    ],
+    [
+      0.116365,
+      "\u001b[31m  - connection failed with -tls1:NULL-SHA \u001b(B\u001b[m"
+    ],
+    [
+      0.000116,
+      "\r\n"
+    ],
+    [
+      0.100936,
+      "\u001b[31m  - connection failed with -tls1:NULL-MD5 \u001b(B\u001b[m"
+    ],
+    [
+      8.2e-05,
+      "\r\n"
+    ],
+    [
+      7.5e-05,
+      "\r\n"
+    ],
+    [
+      6.1e-05,
+      "[+] google.com:443 supports the following:"
+    ],
+    [
+      3.6e-05,
+      "\r\n"
+    ],
+    [
+      4.4e-05,
+      "\r\n"
+    ],
+    [
+      0.001408,
+      "\u001b[34m  - tls1_2:ECDHE-RSA-AES256-GCM-SHA384 \u001b(B\u001b[m"
+    ],
+    [
+      4.3e-05,
+      "\r\n"
+    ],
+    [
+      0.001642,
+      "\u001b[34m  - tls1_2:ECDHE-RSA-AES256-SHA384 \u001b(B\u001b[m"
+    ],
+    [
+      0.000221,
+      "\r\n"
+    ],
+    [
+      0.001344,
+      "\u001b[34m  - tls1_2:ECDHE-RSA-AES256-SHA \u001b(B\u001b[m"
+    ],
+    [
+      5.9e-05,
+      "\r\n"
+    ],
+    [
+      0.001323,
+      "\u001b[34m  - tls1_2:AES256-GCM-SHA384 \u001b(B\u001b[m"
+    ],
+    [
+      3.9e-05,
+      "\r\n"
+    ],
+    [
+      0.001338,
+      "\u001b[34m  - tls1_2:AES256-SHA256 \u001b(B\u001b[m"
+    ],
+    [
+      6.1e-05,
+      "\r\n"
+    ],
+    [
+      0.001566,
+      "\u001b[34m  - tls1_2:AES256-SHA \u001b(B\u001b[m"
+    ],
+    [
+      8.8e-05,
+      "\r\n"
+    ],
+    [
+      0.003065,
+      "\u001b[34m  - tls1_2:DES-CBC3-SHA \u001b(B\u001b[m"
+    ],
+    [
+      4.3e-05,
+      "\r\n"
+    ],
+    [
+      0.001384,
+      "\u001b[34m  - tls1_2:ECDHE-RSA-AES128-GCM-SHA256 \u001b(B\u001b[m"
+    ],
+    [
+      4.2e-05,
+      "\r\n"
+    ],
+    [
+      0.001126,
+      "\u001b[34m  - tls1_2:ECDHE-RSA-AES128-SHA256 \u001b(B\u001b[m"
+    ],
+    [
+      0.0,
+      "\r\n"
+    ],
+    [
+      0.001177,
+      "\u001b[34m  - tls1_2:ECDHE-RSA-AES128-SHA \u001b(B\u001b[m"
+    ],
+    [
+      4.3e-05,
+      "\r\n"
+    ],
+    [
+      0.00129,
+      "\u001b[34m  - tls1_2:AES128-GCM-SHA256 \u001b(B\u001b[m"
+    ],
+    [
+      3.9e-05,
+      "\r\n"
+    ],
+    [
+      0.001243,
+      "\u001b[34m  - tls1_2:AES128-SHA256 \u001b(B\u001b[m"
+    ],
+    [
+      3.9e-05,
+      "\r\n"
+    ],
+    [
+      0.002097,
+      "\u001b[34m  - tls1_2:AES128-SHA \u001b(B\u001b[m"
+    ],
+    [
+      4.2e-05,
+      "\r\n"
+    ],
+    [
+      0.001228,
+      "\u001b[34m  - tls1_1:ECDHE-RSA-AES256-SHA \u001b(B\u001b[m"
+    ],
+    [
+      3.9e-05,
+      "\r\n"
+    ],
+    [
+      0.000976,
+      "\u001b[34m  - tls1_1:AES256-SHA \u001b(B\u001b[m"
+    ],
+    [
+      6e-05,
+      "\r\n"
+    ],
+    [
+      0.001363,
+      "\u001b[34m  - tls1_1:DES-CBC3-SHA \u001b(B\u001b[m"
+    ],
+    [
+      6.3e-05,
+      "\r\n"
+    ],
+    [
+      0.006028,
+      "\u001b[34m  - tls1_1:ECDHE-RSA-AES128-SHA \u001b(B\u001b[m"
+    ],
+    [
+      5.4e-05,
+      "\r\n"
+    ],
+    [
+      0.001295,
+      "\u001b[34m  - tls1_1:AES128-SHA \u001b(B\u001b[m"
+    ],
+    [
+      4.1e-05,
+      "\r\n"
+    ],
+    [
+      0.001232,
+      "\u001b[34m  - tls1:ECDHE-RSA-AES256-SHA \u001b(B\u001b[m"
+    ],
+    [
+      4e-05,
+      "\r\n"
+    ],
+    [
+      0.00127,
+      "\u001b[34m  - tls1:AES256-SHA \u001b(B\u001b[m"
+    ],
+    [
+      3.9e-05,
+      "\r\n"
+    ],
+    [
+      0.002052,
+      "\u001b[34m  - tls1:DES-CBC3-SHA \u001b(B\u001b[m"
+    ],
+    [
+      4e-05,
+      "\r\n"
+    ],
+    [
+      0.001309,
+      "\u001b[34m  - tls1:ECDHE-RSA-AES128-SHA \u001b(B\u001b[m"
+    ],
+    [
+      7.2e-05,
+      "\r\n"
+    ],
+    [
+      0.001322,
+      "\u001b[34m  - tls1:AES128-SHA \u001b(B\u001b[m"
+    ],
+    [
+      4.3e-05,
+      "\r\n"
+    ],
+    [
+      0.002149,
+      "\r\n"
+    ],
+    [
+      0.00013,
+      "[+] check completed in 34 seconds!"
+    ],
+    [
+      4.1e-05,
+      "\r\n"
+    ],
+    [
+      5.1e-05,
+      "\r\n"
+    ],
+    [
+      0.000357,
+      "\u001b[0m"
+    ],
+    [
+      0.0046,
+      "\u001b]0;babil@Ubuntu-VirtualBox: ~/Desktop/Check-TLS\u0007\u001b[00m\u001b[0;90m----------------------------------------------------------------------------------------------------------------------------------------------------------- 02:25:50\r"
+    ],
+    [
+      5.2e-05,
+      "\r\n"
+    ],
+    [
+      4.8e-05,
+      "\u001b[00m\u001b[00;32m[02:25:50] \u001b[00;31mbabil@Ubuntu-VirtualBox\u001b[00m:\u001b[01;34m[~/Desktop/Check-TLS]\u001b[00;36m$\u001b[00m\u001b[00m\u001b[1;29m "
+    ]
+  ],
+  "width": 164,
+  "version": 1,
+  "title": "Check TLS settings on Google",
+  "height": 32,
+  "duration": 41.037964,
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  }
+}

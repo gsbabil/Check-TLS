@@ -11,6 +11,10 @@ For better results, make sure to use a recent version of `openssl`.
 
 ## Quick Usage
 
+#### Screencast
+
+[![asciicast](https://asciinema.org/a/517ygqljolm0ef1jh1a6ibbdz.png)](https://asciinema.org/a/517ygqljolm0ef1jh1a6ibbdz)
+
 #### Test using /usr/local/bin/openssl
 
 ![Screenshot](https://raw.githubusercontent.com/gsbabil/check-tls/master/screenshots/screenshot-1.png)
