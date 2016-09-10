@@ -6,7 +6,8 @@ DEBUG=0 ## shows debug output
 OPENSSL_BIN='' ## auto-detected
 CONNECTION_TIMEOUT='5s' ## openssl is killed after 'timeout' period
 
-IGNORED_PROTOCOLS='dtls1'
+# IGNORED_PROTOCOLS='dtls1'
+IGNORED_PROTOCOLS=''
 IGNORED_CIPHERS=''
 
 COLOR_RESET=$(tput sgr0 2>/dev/null)
@@ -190,9 +191,9 @@ function main() {
 
     for protocol in ${OPENSSL_CLIENT_PROTOCOLS}
     do
-        if [[ ! $(echo "${protocol}" | grep "${IGNORED_PROTOCOLS}") ]]
+        if [[ ! -z $(echo "${protocol}" | grep "${IGNORED_PROTOCOLS}") ]]
         then
-            echo "[+] checking ${protocol} on $1:$2"
+            echo "[+] checking $1:$2 for: ${protocol}"
             local result=$(check_protocol "$1" "$2" "${protocol}")
             if [[ -z "${result}" ]]
             then
@@ -223,13 +224,14 @@ function main() {
         for cipher in ${OPENSSL_CLIENT_CIPHERS}
         do
             local result=$(check_cipher "$1" "$2" "${protocol}" "${cipher}")
+            pretty_proto=$(echo -n ${protocol} | sed 's/-//g')
             if [[ -z "${result}" ]]
             then
-                echo -e "${COLOR_RED}  - connection failed with ${protocol}:${cipher} ${COLOR_RESET}"
+                echo -e "${COLOR_RED}  - connection failed with: ${pretty_proto}:${cipher} ${COLOR_RESET}"
             else
-                echo -e "${COLOR_BLUE}  - connection successful with ${protocol}:${cipher}"
-                echo -e "${COLOR_BLUE}  - session master-key: ${result} ${COLOR_RESET}"
-                SUPPORTED_CIPHERS="${SUPPORTED_CIPHERS} $protocol:${cipher}"
+                echo -e "${COLOR_BLUE}  + connection successful with:  ${pretty_proto}:${cipher}"
+                echo -e "${COLOR_BLUE}    session master-key: ${result} ${COLOR_RESET}"
+                SUPPORTED_CIPHERS="${SUPPORTED_CIPHERS} $pretty_proto:${cipher}"
             fi
         done
     done
@@ -240,20 +242,27 @@ function main() {
         echo "[+] "$1:$2 supports the following:
         echo
 
-        for x in ${SUPPORTED_CIPHERS}
+        total=0
+        for proto_and_cipher in ${SUPPORTED_CIPHERS}
         do
-            pc=$(echo $x | sed 's/^-//')
-            echo -e "${COLOR_BLUE}  - $pc ${COLOR_RESET}"
+            total=$((total+1))
+        done
+        num_digits=$(echo -n ${total} | wc -c)
+
+        count=0
+        for proto_and_cipher in ${SUPPORTED_CIPHERS}
+        do
+            count=$((count+1))
+            echo -e "${COLOR_BLUE}  [$(printf "%0${num_digits}d" ${count})] - ${proto_and_cipher} ${COLOR_RESET}"
         done
     fi
+
+    END_TIMESTAMP=$(date +%s)
+    TIME_WASTED=$(echo "${END_TIMESTAMP} - ${START_TIMESTAMP}" | bc)
+
+    echo
+    echo "[+] check completed in ${TIME_WASTED} seconds!"
+    echo
 }
 
 main $@
-
-END_TIMESTAMP=$(date +%s)
-TIME_WASTED=$(echo "${END_TIMESTAMP} - ${START_TIMESTAMP}" | bc)
-
-echo
-echo "[+] check completed in ${TIME_WASTED} seconds!"
-echo
-
