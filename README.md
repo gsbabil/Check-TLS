@@ -26,7 +26,7 @@ For better results, make sure to use a recent version of `openssl`.
 ![Screenshot](https://raw.githubusercontent.com/gsbabil/check-tls/master/screenshots/screenshot-2.png)
 
 
-## More Example Usage
+## More Usage Example
 
 ```
 $ check-tls.sh gateway.push.apple.com 2195
